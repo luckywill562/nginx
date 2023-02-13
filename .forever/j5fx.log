@@ -1,0 +1,14 @@
+Version: 1.1
+Thu, 24 Nov 2022 19:20:57 GMT: Server listening at port 4000
+(node:5581) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:5581) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Thu, 24 Nov 2022 19:21:05 GMT: settings received from moderator.
+Thu, 24 Nov 2022 19:21:07 GMT: game has started.
+Thu, 24 Nov 2022 19:23:41 GMT: question received from moderator: 2. How many colonies made up the initial USA states at independence ?
+Thu, 24 Nov 2022 19:24:01 GMT: announce correct answer for question 2. How many colonies made up the initial USA states at independence ?
+Thu, 24 Nov 2022 19:24:10 GMT: question received from moderator: 3. The holy month of Ramadan is a time mostly known for .....
+Thu, 24 Nov 2022 19:24:31 GMT: announce correct answer for question 3. The holy month of Ramadan is a time mostly known for .....
+Thu, 24 Nov 2022 19:24:34 GMT: question received from moderator: 3 -The part of the brain that is nicked name seat of intelligence is
+Thu, 24 Nov 2022 19:24:56 GMT: announce correct answer for question 3 -The part of the brain that is nicked name seat of intelligence is
+error: Forever detected script was killed by signal: SIGKILL

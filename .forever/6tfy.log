@@ -1,0 +1,20 @@
+Version: 1.1
+Thu, 24 Nov 2022 20:11:25 GMT: Server listening at port 4000
+(node:8421) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:8421) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Thu, 24 Nov 2022 20:11:26 GMT: moderator reconnected.
+Thu, 24 Nov 2022 20:11:26 GMT: settings received from moderator.
+Thu, 24 Nov 2022 20:11:29 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Thu, 24 Nov 2022 20:11:33 GMT: settings received from moderator.
+Thu, 24 Nov 2022 20:11:35 GMT: game has started.
+Thu, 24 Nov 2022 20:14:22 GMT: question received from moderator: 1. Omo Baba Olowo is a nickname associated with which of these Nigerian Artistes?
+Thu, 24 Nov 2022 20:14:43 GMT: announce correct answer for question 1. Omo Baba Olowo is a nickname associated with which of these Nigerian Artistes?
+Thu, 24 Nov 2022 20:14:49 GMT: question received from moderator: 3. Mycology is the scientific study of what?
+Thu, 24 Nov 2022 20:15:10 GMT: announce correct answer for question 3. Mycology is the scientific study of what?
+Thu, 24 Nov 2022 20:15:12 GMT: question received from moderator: 2.. The term "Duty-Free" shopping on items implies one of the following ?
+Thu, 24 Nov 2022 20:15:32 GMT: announce correct answer for question 2.. The term "Duty-Free" shopping on items implies one of the following ?
+Thu, 24 Nov 2022 20:15:42 GMT: question received from moderator: 4. Which of these banks prides itself as "your one customer bank"?
+Thu, 24 Nov 2022 20:16:04 GMT: announce correct answer for question 4. Which of these banks prides itself as "your one customer bank"?
+error: Forever detected script was killed by signal: SIGKILL

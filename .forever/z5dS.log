@@ -1,0 +1,16 @@
+Version: 1.1
+Tue, 22 Nov 2022 16:12:35 GMT: Server listening at port 4000
+(node:22510) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:22510) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+Tue, 22 Nov 2022 16:13:26 GMT: settings received from moderator.
+Tue, 22 Nov 2022 16:13:27 GMT: game has started.
+Tue, 22 Nov 2022 16:16:01 GMT: question received from moderator: 1. NaCl is the chemical formula for which of these common substance?
+Tue, 22 Nov 2022 16:16:21 GMT: announce correct answer for question 1. NaCl is the chemical formula for which of these common substance?
+Tue, 22 Nov 2022 16:16:33 GMT: question received from moderator: 3. Who is the current chairman of INEC?
+Tue, 22 Nov 2022 16:16:55 GMT: announce correct answer for question 3. Who is the current chairman of INEC?
+Tue, 22 Nov 2022 16:17:07 GMT: question received from moderator: 3. Nigeria’s oldest airport is located in?
+Tue, 22 Nov 2022 16:17:28 GMT: announce correct answer for question 3. Nigeria’s oldest airport is located in?
+Tue, 22 Nov 2022 16:17:31 GMT: question received from moderator: 4. Hypertek Digital is a record label founded by which of the following artistes?
+Tue, 22 Nov 2022 16:17:56 GMT: announce correct answer for question 4. Hypertek Digital is a record label founded by which of the following artistes?
+Tue, 22 Nov 2022 16:17:56 GMT: moderator has disconnected. Waiting 60 seconds to verify it's not an accident.
+error: Forever detected script was killed by signal: SIGKILL

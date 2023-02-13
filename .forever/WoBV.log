@@ -1,0 +1,17 @@
+Version: 1.1
+Wed, 23 Nov 2022 00:15:04 GMT: Server listening at port 4000
+(node:25274) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:25274) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+Wed, 23 Nov 2022 00:15:05 GMT: moderator reconnected.
+/home/ec2-user/triviabillionia-socket/index.js:685
+		for (var i = 0; i < analytics.times.questions[game_question.game_order].playing_users.length; i++) {
+		                                    ^
+
+TypeError: Cannot read property 'questions' of undefined
+    at m_reconnect (/home/ec2-user/triviabillionia-socket/index.js:685:39)
+    at Namespace.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:140:5)
+    at Namespace.emit (events.js:210:5)
+    at Namespace.emit (/home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/namespace.js:212:10)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/namespace.js:180:14
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1

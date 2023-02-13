@@ -1,0 +1,11 @@
+Version: 1.1
+Wed, 23 Nov 2022 00:10:14 GMT: Server listening at port 4000
+(node:25227) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:25227) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+Wed, 23 Nov 2022 00:10:41 GMT: settings received from moderator.
+Wed, 23 Nov 2022 00:10:42 GMT: game has started.
+Wed, 23 Nov 2022 00:13:16 GMT: question received from moderator: 1- Which country has the best economy in the world?
+Wed, 23 Nov 2022 00:13:36 GMT: announce correct answer for question 1- Which country has the best economy in the world?
+Wed, 23 Nov 2022 00:13:41 GMT: question received from moderator: 1. Which of these Nigerian Artistes goes by the stage name BNXN (BUJU)?
+Wed, 23 Nov 2022 00:14:01 GMT: announce correct answer for question 1. Which of these Nigerian Artistes goes by the stage name BNXN (BUJU)?
+error: Forever detected script was killed by signal: SIGKILL

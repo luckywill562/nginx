@@ -1,0 +1,33 @@
+Version: 1.1
+Thu, 24 Nov 2022 20:02:16 GMT: Server listening at port 4000
+(node:7911) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:7911) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Thu, 24 Nov 2022 20:02:17 GMT: moderator reconnected.
+Thu, 24 Nov 2022 20:02:17 GMT: settings received from moderator.
+Thu, 24 Nov 2022 20:02:20 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Thu, 24 Nov 2022 20:02:24 GMT: settings received from moderator.
+Thu, 24 Nov 2022 20:02:26 GMT: game has started.
+Thu, 24 Nov 2022 20:07:22 GMT: question received from moderator: 1. Omo Baba Olowo is a nickname associated with which of these Nigerian Artistes?
+Thu, 24 Nov 2022 20:07:42 GMT: announce correct answer for question 1. Omo Baba Olowo is a nickname associated with which of these Nigerian Artistes?
+/home/ec2-user/triviabillionia-socket/index.js:266
+				analytics.answered_correctly[question.game_order].push(123);
+				                             ^
+
+ReferenceError: question is not defined
+    at doCallback (/home/ec2-user/triviabillionia-socket/index.js:266:34)
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:250:5)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #1
+Version: 1.1
+Thu, 24 Nov 2022 20:07:42 GMT: Server listening at port 4000
+(node:7928) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:7928) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Thu, 24 Nov 2022 20:07:43 GMT: moderator reconnected.
+Thu, 24 Nov 2022 20:07:43 GMT: settings received from moderator.
+error: Forever detected script was killed by signal: SIGKILL

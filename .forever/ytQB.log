@@ -1,0 +1,262 @@
+Version: 1.1
+Tue, 22 Nov 2022 16:35:56 GMT: Server listening at port 4000
+(node:22668) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:22668) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+Tue, 22 Nov 2022 16:37:36 GMT: settings received from moderator.
+Tue, 22 Nov 2022 16:37:38 GMT: game has started.
+Tue, 22 Nov 2022 16:40:35 GMT: question received from moderator: 1. NaCl is the chemical formula for which of these common substance?
+/home/ec2-user/triviabillionia-socket/index.js:211
+			analytics.times.questions[game_question.game_order].playing_users.push(13123123);
+			                                                                  ^
+
+TypeError: analytics.times.questions[game_question.game_order].playing_users.push is not a function
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:211:70)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #1
+Version: 1.1
+Tue, 22 Nov 2022 16:40:56 GMT: Server listening at port 4000
+(node:22729) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:22729) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+Tue, 22 Nov 2022 16:40:56 GMT: moderator reconnected.
+Tue, 22 Nov 2022 16:40:56 GMT: settings received from moderator.
+Tue, 22 Nov 2022 16:41:00 GMT: question received from moderator: 3. Who is the current chairman of INEC?
+/home/ec2-user/triviabillionia-socket/index.js:203
+				analytics.times.questions[question.game_order] = {
+				                ^
+
+TypeError: Cannot read property 'questions' of undefined
+    at doCallback (/home/ec2-user/triviabillionia-socket/index.js:203:21)
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:198:5)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #2
+Version: 1.1
+Tue, 22 Nov 2022 16:41:00 GMT: Server listening at port 4000
+(node:22740) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:22740) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+Tue, 22 Nov 2022 16:41:01 GMT: moderator reconnected.
+Tue, 22 Nov 2022 16:41:01 GMT: settings received from moderator.
+/home/ec2-user/triviabillionia-socket/index.js:211
+			analytics.times.questions[game_question.game_order].playing_users.push(13123123);
+			                ^
+
+TypeError: Cannot read property 'questions' of undefined
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:211:20)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #3
+Version: 1.1
+Tue, 22 Nov 2022 16:42:14 GMT: Server listening at port 4000
+(node:22752) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:22752) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+Tue, 22 Nov 2022 16:42:15 GMT: moderator reconnected.
+Tue, 22 Nov 2022 16:42:15 GMT: settings received from moderator.
+Tue, 22 Nov 2022 16:42:17 GMT: question received from moderator: 3. Nigeria’s oldest airport is located in?
+/home/ec2-user/triviabillionia-socket/index.js:203
+				analytics.times.questions[question.game_order] = {
+				                ^
+
+TypeError: Cannot read property 'questions' of undefined
+    at doCallback (/home/ec2-user/triviabillionia-socket/index.js:203:21)
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:198:5)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #4
+Version: 1.1
+Tue, 22 Nov 2022 16:42:17 GMT: Server listening at port 4000
+(node:22763) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:22763) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+Tue, 22 Nov 2022 16:42:18 GMT: moderator reconnected.
+Tue, 22 Nov 2022 16:42:18 GMT: settings received from moderator.
+/home/ec2-user/triviabillionia-socket/index.js:211
+			analytics.times.questions[game_question.game_order].playing_users.push(13123123);
+			                ^
+
+TypeError: Cannot read property 'questions' of undefined
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:211:20)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #5
+Version: 1.1
+Tue, 22 Nov 2022 16:42:38 GMT: Server listening at port 4000
+(node:22774) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:22774) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+Tue, 22 Nov 2022 16:42:38 GMT: moderator reconnected.
+Tue, 22 Nov 2022 16:42:38 GMT: settings received from moderator.
+Tue, 22 Nov 2022 16:43:00 GMT: moderator has disconnected. Waiting 60 seconds to verify it's not an accident.
+Tue, 22 Nov 2022 16:43:43 GMT: settings received from moderator.
+Tue, 22 Nov 2022 16:43:44 GMT: game has started.
+Tue, 22 Nov 2022 16:44:00 GMT: moderator has fully disconnected (60 seconds has passed since disconnect event). Disconnecing all users.
+/home/ec2-user/triviabillionia-socket/index.js:324
+			analytics.times[what] = new Date().toISOString();
+			                      ^
+
+TypeError: Cannot set property 'intro' of undefined
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:324:26)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #6
+Version: 1.1
+Tue, 22 Nov 2022 16:46:15 GMT: Server listening at port 4000
+(node:22790) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:22790) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+Tue, 22 Nov 2022 16:46:15 GMT: moderator reconnected.
+Tue, 22 Nov 2022 16:46:15 GMT: settings received from moderator.
+Tue, 22 Nov 2022 16:46:18 GMT: question received from moderator: 1- Which country has the best economy in the world?
+/home/ec2-user/triviabillionia-socket/index.js:203
+				analytics.times.questions[question.game_order] = {
+				                ^
+
+TypeError: Cannot read property 'questions' of undefined
+    at doCallback (/home/ec2-user/triviabillionia-socket/index.js:203:21)
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:198:5)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #7
+Version: 1.1
+Tue, 22 Nov 2022 16:46:18 GMT: Server listening at port 4000
+(node:22801) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:22801) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+Tue, 22 Nov 2022 16:46:20 GMT: moderator reconnected.
+Tue, 22 Nov 2022 16:46:20 GMT: settings received from moderator.
+/home/ec2-user/triviabillionia-socket/index.js:211
+			analytics.times.questions[game_question.game_order].playing_users.push(13123123);
+			                ^
+
+TypeError: Cannot read property 'questions' of undefined
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:211:20)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #8
+Version: 1.1
+Tue, 22 Nov 2022 16:46:39 GMT: Server listening at port 4000
+(node:22812) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:22812) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+Tue, 22 Nov 2022 16:46:40 GMT: moderator reconnected.
+Tue, 22 Nov 2022 16:46:40 GMT: settings received from moderator.
+Tue, 22 Nov 2022 16:46:43 GMT: question received from moderator: 1. Which of these Nigerian Artistes goes by the stage name BNXN (BUJU)?
+/home/ec2-user/triviabillionia-socket/index.js:203
+				analytics.times.questions[question.game_order] = {
+				                ^
+
+TypeError: Cannot read property 'questions' of undefined
+    at doCallback (/home/ec2-user/triviabillionia-socket/index.js:203:21)
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:198:5)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #9
+Version: 1.1
+Tue, 22 Nov 2022 16:46:43 GMT: Server listening at port 4000
+(node:22823) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:22823) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+Tue, 22 Nov 2022 16:46:44 GMT: moderator reconnected.
+Tue, 22 Nov 2022 16:46:44 GMT: settings received from moderator.
+/home/ec2-user/triviabillionia-socket/index.js:211
+			analytics.times.questions[game_question.game_order].playing_users.push(13123123);
+			                ^
+
+TypeError: Cannot read property 'questions' of undefined
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:211:20)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #10
+Version: 1.1
+Tue, 22 Nov 2022 16:47:05 GMT: Server listening at port 4000
+(node:22835) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:22835) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+Tue, 22 Nov 2022 16:47:06 GMT: moderator reconnected.
+Tue, 22 Nov 2022 16:47:06 GMT: settings received from moderator.
+Tue, 22 Nov 2022 16:47:11 GMT: question received from moderator: 2. The average price for a bottle of Hennessey Vsop is?
+/home/ec2-user/triviabillionia-socket/index.js:203
+				analytics.times.questions[question.game_order] = {
+				                ^
+
+TypeError: Cannot read property 'questions' of undefined
+    at doCallback (/home/ec2-user/triviabillionia-socket/index.js:203:21)
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:198:5)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #11
+Version: 1.1
+Tue, 22 Nov 2022 16:47:11 GMT: Server listening at port 4000
+(node:22846) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:22846) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+Tue, 22 Nov 2022 16:47:11 GMT: moderator reconnected.
+Tue, 22 Nov 2022 16:47:11 GMT: settings received from moderator.
+/home/ec2-user/triviabillionia-socket/index.js:211
+			analytics.times.questions[game_question.game_order].playing_users.push(13123123);
+			                ^
+
+TypeError: Cannot read property 'questions' of undefined
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:211:20)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #12
+Version: 1.1
+Tue, 22 Nov 2022 16:47:32 GMT: Server listening at port 4000
+(node:22857) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:22857) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+Tue, 22 Nov 2022 16:47:33 GMT: moderator reconnected.
+Tue, 22 Nov 2022 16:47:33 GMT: settings received from moderator.
+Tue, 22 Nov 2022 16:47:41 GMT: question received from moderator: 4. How many chambers does the human heart have?
+/home/ec2-user/triviabillionia-socket/index.js:203
+				analytics.times.questions[question.game_order] = {
+				                ^
+
+TypeError: Cannot read property 'questions' of undefined
+    at doCallback (/home/ec2-user/triviabillionia-socket/index.js:203:21)
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:198:5)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #13
+Version: 1.1
+Tue, 22 Nov 2022 16:47:41 GMT: Server listening at port 4000
+(node:22868) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:22868) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+Tue, 22 Nov 2022 16:47:42 GMT: moderator reconnected.
+Tue, 22 Nov 2022 16:47:42 GMT: settings received from moderator.
+/home/ec2-user/triviabillionia-socket/index.js:211
+			analytics.times.questions[game_question.game_order].playing_users.push(13123123);
+			                ^
+
+TypeError: Cannot read property 'questions' of undefined
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:211:20)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #14
+Version: 1.1
+Tue, 22 Nov 2022 16:48:04 GMT: Server listening at port 4000
+(node:22880) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:22880) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+Tue, 22 Nov 2022 16:48:05 GMT: moderator reconnected.
+Tue, 22 Nov 2022 16:48:05 GMT: settings received from moderator.
+error: Forever detected script was killed by signal: SIGKILL

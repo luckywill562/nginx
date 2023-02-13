@@ -1,0 +1,39 @@
+Version: 1.1
+Thu, 24 Nov 2022 19:01:14 GMT: Server listening at port 4000
+(node:5050) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:5050) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Thu, 24 Nov 2022 19:01:25 GMT: settings received from moderator.
+Thu, 24 Nov 2022 19:01:27 GMT: game has started.
+Thu, 24 Nov 2022 19:04:01 GMT: question received from moderator: 2. How many colonies made up the initial USA states at independence ?
+Thu, 24 Nov 2022 19:04:21 GMT: announce correct answer for question 2. How many colonies made up the initial USA states at independence ?
+/home/ec2-user/triviabillionia-socket/index.js:266
+				analytics.answered_correctly[question.game_order].push(123);
+				                             ^
+
+ReferenceError: question is not defined
+    at doCallback (/home/ec2-user/triviabillionia-socket/index.js:266:34)
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:250:5)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #1
+Version: 1.1
+Thu, 24 Nov 2022 19:04:21 GMT: Server listening at port 4000
+(node:5066) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:5066) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Thu, 24 Nov 2022 19:04:21 GMT: moderator reconnected.
+/home/ec2-user/triviabillionia-socket/index.js:697
+		for (var i = 0; i < analytics.answered_correctly[question.game_order].length; i++) {
+		                                                 ^
+
+ReferenceError: question is not defined
+    at m_reconnect (/home/ec2-user/triviabillionia-socket/index.js:697:52)
+    at Namespace.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:143:6)
+    at Namespace.emit (events.js:210:5)
+    at Namespace.emit (/home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/namespace.js:212:10)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/namespace.js:180:14
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1

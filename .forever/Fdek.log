@@ -1,0 +1,5 @@
+Version: 1.1
+Wed, 23 Nov 2022 14:23:14 GMT: Server listening at port 4000
+(node:29091) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:29091) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+error: Forever detected script was killed by signal: SIGKILL

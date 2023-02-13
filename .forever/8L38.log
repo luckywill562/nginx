@@ -1,0 +1,1196 @@
+Version: 1.1
+Thu, 24 Nov 2022 20:20:59 GMT: Server listening at port 4000
+(node:8733) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:8733) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Thu, 24 Nov 2022 20:20:59 GMT: moderator reconnected.
+Thu, 24 Nov 2022 20:20:59 GMT: settings received from moderator.
+Thu, 24 Nov 2022 20:21:05 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Thu, 24 Nov 2022 20:21:08 GMT: settings received from moderator.
+Thu, 24 Nov 2022 20:21:09 GMT: game has started.
+Thu, 24 Nov 2022 20:24:07 GMT: question received from moderator: 1. Omo Baba Olowo is a nickname associated with which of these Nigerian Artistes?
+Thu, 24 Nov 2022 20:24:28 GMT: announce correct answer for question 1. Omo Baba Olowo is a nickname associated with which of these Nigerian Artistes?
+Thu, 24 Nov 2022 20:24:33 GMT: question received from moderator: 3. Mycology is the scientific study of what?
+Thu, 24 Nov 2022 20:24:53 GMT: announce correct answer for question 3. Mycology is the scientific study of what?
+Thu, 24 Nov 2022 20:31:05 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+Fri, 25 Nov 2022 04:31:12 GMT: db connection loss. Instant reconnect.
+made connection!!!
+made connection!!!
+Fri, 25 Nov 2022 10:30:23 GMT: settings received from moderator.
+Fri, 25 Nov 2022 10:30:27 GMT: game has started.
+made connection!!!
+Fri, 25 Nov 2022 10:33:17 GMT: question received from moderator: 2. The basic unit of life is ?
+Fri, 25 Nov 2022 10:33:37 GMT: announce correct answer for question 2. The basic unit of life is ?
+Fri, 25 Nov 2022 10:33:50 GMT: question received from moderator: 3. Four-In-Hand is an example of?
+Fri, 25 Nov 2022 10:34:10 GMT: announce correct answer for question 3. Four-In-Hand is an example of?
+Fri, 25 Nov 2022 10:34:18 GMT: question received from moderator: 3. If a person has Eczema this implies that he/she has a?
+Fri, 25 Nov 2022 10:34:38 GMT: announce correct answer for question 3. If a person has Eczema this implies that he/she has a?
+Fri, 25 Nov 2022 10:34:47 GMT: question received from moderator: 4. Which of these actors never played James Bond?
+Fri, 25 Nov 2022 10:35:08 GMT: announce correct answer for question 4. Which of these actors never played James Bond?
+made connection!!!
+Fri, 25 Nov 2022 10:36:10 GMT: moderator reconnected.
+Fri, 25 Nov 2022 10:36:12 GMT: settings received from moderator.
+Fri, 25 Nov 2022 10:36:49 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+Fri, 25 Nov 2022 10:36:52 GMT: question received from moderator: 5. Able God by Chinko Ekun featured all these artistes Except?
+Fri, 25 Nov 2022 10:37:12 GMT: announce correct answer for question 5. Able God by Chinko Ekun featured all these artistes Except?
+Fri, 25 Nov 2022 10:38:26 GMT: question received from moderator: 6. The Inaugural AMVCA ceremony happened in what year?
+Fri, 25 Nov 2022 10:38:46 GMT: announce correct answer for question 6. The Inaugural AMVCA ceremony happened in what year?
+Fri, 25 Nov 2022 10:39:17 GMT: question received from moderator: 9. The iconic Taj Mahal was a gift of the Emperor Shah Jahan to which of his companions?
+Fri, 25 Nov 2022 10:39:37 GMT: announce correct answer for question 9. The iconic Taj Mahal was a gift of the Emperor Shah Jahan to which of his companions?
+Fri, 25 Nov 2022 10:40:15 GMT: question received from moderator: 7. Where were the two atomic bombs dropped in Japan during the World War II?
+Fri, 25 Nov 2022 10:40:35 GMT: announce correct answer for question 7. Where were the two atomic bombs dropped in Japan during the World War II?
+Fri, 25 Nov 2022 10:40:55 GMT: question received from moderator: 8. What combination of gases causes acidic rain?
+Fri, 25 Nov 2022 10:41:15 GMT: announce correct answer for question 8. What combination of gases causes acidic rain?
+Fri, 25 Nov 2022 10:41:27 GMT: question received from moderator: 12. The Aba women's riot happened in what year?
+Fri, 25 Nov 2022 10:41:48 GMT: announce correct answer for question 12. The Aba women's riot happened in what year?
+Fri, 25 Nov 2022 10:41:54 GMT: question received from moderator: 10- Which of these options is the last letter of the Greek alphabet?
+Fri, 25 Nov 2022 10:42:15 GMT: announce correct answer for question 10- Which of these options is the last letter of the Greek alphabet?
+Fri, 25 Nov 2022 10:42:26 GMT: question received from moderator: 12. The award given to the best goal scored by a player in a calendar year is called?
+Fri, 25 Nov 2022 10:42:46 GMT: announce correct answer for question 12. The award given to the best goal scored by a player in a calendar year is called?
+Fri, 25 Nov 2022 10:43:03 GMT: announcing winners.
+Fri, 25 Nov 2022 10:44:25 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+Fri, 25 Nov 2022 10:46:49 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+Fri, 25 Nov 2022 10:54:25 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+made connection!!!
+Fri, 25 Nov 2022 11:40:03 GMT: settings received from moderator.
+Fri, 25 Nov 2022 11:40:12 GMT: game has started.
+made connection!!!
+made connection!!!
+made connection!!!
+made connection!!!
+made connection!!!
+made connection!!!
+made connection!!!
+made connection!!!
+made connection!!!
+made connection!!!
+made connection!!!
+made connection!!!
+made connection!!!
+made connection!!!
+Fri, 25 Nov 2022 11:43:02 GMT: question received from moderator: Which of these is the country with the largest Muslim population
+Fri, 25 Nov 2022 11:43:23 GMT: announce correct answer for question Which of these is the country with the largest Muslim population
+Fri, 25 Nov 2022 11:44:02 GMT: question received from moderator: 2. Isiewu is a traditional Igbo dish made primarily from?
+Fri, 25 Nov 2022 11:44:23 GMT: announce correct answer for question 2. Isiewu is a traditional Igbo dish made primarily from?
+Fri, 25 Nov 2022 11:44:30 GMT: question received from moderator: 2. Queen Nefertiti was a queen in which of these countries?
+Fri, 25 Nov 2022 11:44:50 GMT: announce correct answer for question 2. Queen Nefertiti was a queen in which of these countries?
+Fri, 25 Nov 2022 11:44:58 GMT: question received from moderator: 2. What is the full meaning of ATM?
+Fri, 25 Nov 2022 11:45:19 GMT: announce correct answer for question 2. What is the full meaning of ATM?
+Fri, 25 Nov 2022 11:45:29 GMT: question received from moderator: 5.  To be together with SAPA means what?
+made connection!!!
+Fri, 25 Nov 2022 11:45:50 GMT: announce correct answer for question 5.  To be together with SAPA means what?
+made connection!!!
+Fri, 25 Nov 2022 11:46:17 GMT: question received from moderator: 6. What does LAN stand for?
+Fri, 25 Nov 2022 11:46:38 GMT: announce correct answer for question 6. What does LAN stand for?
+made connection!!!
+Fri, 25 Nov 2022 11:47:32 GMT: moderator reconnected.
+Fri, 25 Nov 2022 11:47:32 GMT: settings received from moderator.
+Fri, 25 Nov 2022 11:48:10 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Fri, 25 Nov 2022 11:48:26 GMT: question received from moderator: 7. In the last 100 years, the traditional Christmas colours are?
+Fri, 25 Nov 2022 11:48:46 GMT: announce correct answer for question 7. In the last 100 years, the traditional Christmas colours are?
+Fri, 25 Nov 2022 11:48:53 GMT: question received from moderator: 7. One of these is not an example of a music festival, which is it?
+Fri, 25 Nov 2022 11:49:13 GMT: announce correct answer for question 7. One of these is not an example of a music festival, which is it?
+Fri, 25 Nov 2022 11:49:27 GMT: question received from moderator: 8. Complete the lyrics - If you see me drive by _______ at your boy
+Fri, 25 Nov 2022 11:49:47 GMT: announce correct answer for question 8. Complete the lyrics - If you see me drive by _______ at your boy
+Fri, 25 Nov 2022 11:49:59 GMT: question received from moderator: 8. A Comet is made up of?
+Fri, 25 Nov 2022 11:50:19 GMT: announce correct answer for question 8. A Comet is made up of?
+Fri, 25 Nov 2022 11:50:26 GMT: question received from moderator: 11. Which of these Nigerian martial artists is the current UFC welterweight champion?
+Fri, 25 Nov 2022 11:50:46 GMT: announce correct answer for question 11. Which of these Nigerian martial artists is the current UFC welterweight champion?
+Fri, 25 Nov 2022 11:50:54 GMT: question received from moderator: 12. Another city named Lagos is located in which country?
+Fri, 25 Nov 2022 11:51:14 GMT: announce correct answer for question 12. Another city named Lagos is located in which country?
+Fri, 25 Nov 2022 11:51:18 GMT: announcing winners.
+made connection!!!
+Fri, 25 Nov 2022 11:52:01 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+made connection!!!
+made connection!!!
+made connection!!!
+made connection!!!
+made connection!!!
+made connection!!!
+Fri, 25 Nov 2022 11:58:10 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+Fri, 25 Nov 2022 12:02:01 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+Fri, 25 Nov 2022 13:15:03 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Fri, 25 Nov 2022 13:15:23 GMT: settings received from moderator.
+Fri, 25 Nov 2022 13:15:25 GMT: game has started.
+Fri, 25 Nov 2022 13:17:59 GMT: question received from moderator: 1. The solar system is estimated to be about how many billion years old?
+Fri, 25 Nov 2022 13:18:19 GMT: announce correct answer for question 1. The solar system is estimated to be about how many billion years old?
+Fri, 25 Nov 2022 13:18:21 GMT: question received from moderator: 2. Which of these phrases best describes the football term Caps?
+Fri, 25 Nov 2022 13:18:41 GMT: announce correct answer for question 2. Which of these phrases best describes the football term Caps?
+Fri, 25 Nov 2022 13:18:46 GMT: question received from moderator: 1. Where would you find an ISBN number?
+Fri, 25 Nov 2022 13:19:06 GMT: announce correct answer for question 1. Where would you find an ISBN number?
+Fri, 25 Nov 2022 13:19:09 GMT: question received from moderator: 4. Which of these is not a reason why Pluto is no longer considered a planet?
+Fri, 25 Nov 2022 13:19:29 GMT: announce correct answer for question 4. Which of these is not a reason why Pluto is no longer considered a planet?
+Fri, 25 Nov 2022 13:19:33 GMT: question received from moderator: 4. Who was the scientist to propose the Laws of Motion?
+Fri, 25 Nov 2022 13:19:53 GMT: announce correct answer for question 4. Who was the scientist to propose the Laws of Motion?
+Fri, 25 Nov 2022 13:19:59 GMT: question received from moderator: 6. Which of these food is traditionally wrapped in Seaweed?
+Fri, 25 Nov 2022 13:20:19 GMT: announce correct answer for question 6. Which of these food is traditionally wrapped in Seaweed?
+Fri, 25 Nov 2022 13:20:23 GMT: question received from moderator: Which of these is the largest country in Africa by land mass
+Fri, 25 Nov 2022 13:20:43 GMT: announce correct answer for question Which of these is the largest country in Africa by land mass
+Fri, 25 Nov 2022 13:20:47 GMT: question received from moderator: 9. What year was the movie The Wolf of Wall Street released?
+Fri, 25 Nov 2022 13:21:07 GMT: announce correct answer for question 9. What year was the movie The Wolf of Wall Street released?
+Fri, 25 Nov 2022 13:21:10 GMT: question received from moderator: 7. 2015 summer hit Bobo by Olamide was produced by which of the following producers?
+Fri, 25 Nov 2022 13:21:30 GMT: announce correct answer for question 7. 2015 summer hit Bobo by Olamide was produced by which of the following producers?
+Fri, 25 Nov 2022 13:21:33 GMT: question received from moderator: 11. The movie Figurine was released in what year?
+Fri, 25 Nov 2022 13:21:53 GMT: announce correct answer for question 11. The movie Figurine was released in what year?
+Fri, 25 Nov 2022 13:21:55 GMT: question received from moderator: 12. Each of these planets has a moon EXCEPT from?
+Fri, 25 Nov 2022 13:22:15 GMT: announce correct answer for question 12. Each of these planets has a moon EXCEPT from?
+Fri, 25 Nov 2022 13:22:18 GMT: question received from moderator: 12. Which of the following people is the only female Presidential candidate?
+Fri, 25 Nov 2022 13:22:38 GMT: announce correct answer for question 12. Which of the following people is the only female Presidential candidate?
+Fri, 25 Nov 2022 13:22:41 GMT: announcing winners.
+Fri, 25 Nov 2022 13:23:19 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+Fri, 25 Nov 2022 13:25:03 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+Fri, 25 Nov 2022 13:33:19 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+made connection!!!
+Fri, 25 Nov 2022 13:57:32 GMT: settings received from moderator.
+Fri, 25 Nov 2022 13:57:38 GMT: game has started.
+made connection!!!
+Fri, 25 Nov 2022 14:00:29 GMT: question received from moderator: 1. Which of the following is the term used in describing the Nigerian Film Industry?
+Fri, 25 Nov 2022 14:00:49 GMT: announce correct answer for question 1. Which of the following is the term used in describing the Nigerian Film Industry?
+Fri, 25 Nov 2022 14:01:25 GMT: question received from moderator: 3. Which of these platforms is used to share professional accomplishments and connect with other professionals?
+Fri, 25 Nov 2022 14:01:45 GMT: announce correct answer for question 3. Which of these platforms is used to share professional accomplishments and connect with other professionals?
+made connection!!!
+Fri, 25 Nov 2022 14:03:13 GMT: moderator reconnected.
+Fri, 25 Nov 2022 14:03:14 GMT: settings received from moderator.
+Fri, 25 Nov 2022 14:03:34 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+Fri, 25 Nov 2022 14:03:41 GMT: question received from moderator: 1. The Black Adam is a superhero film based off which of these comics?
+Fri, 25 Nov 2022 14:04:01 GMT: announce correct answer for question 1. The Black Adam is a superhero film based off which of these comics?
+made connection!!!
+Fri, 25 Nov 2022 14:05:44 GMT: question received from moderator: 4. Which of these football clubs play in the La Liga?
+Fri, 25 Nov 2022 14:06:04 GMT: announce correct answer for question 4. Which of these football clubs play in the La Liga?
+Fri, 25 Nov 2022 14:06:12 GMT: question received from moderator: 6. Which of these sports is played at Wimbledon?
+Fri, 25 Nov 2022 14:06:32 GMT: announce correct answer for question 6. Which of these sports is played at Wimbledon?
+Fri, 25 Nov 2022 14:06:39 GMT: announcing winners.
+Fri, 25 Nov 2022 14:07:22 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+Fri, 25 Nov 2022 14:13:34 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+Fri, 25 Nov 2022 14:17:22 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+made connection!!!
+Fri, 25 Nov 2022 18:27:53 GMT: settings received from moderator.
+Fri, 25 Nov 2022 18:27:56 GMT: game has started.
+made connection!!!
+made connection!!!
+made connection!!!
+Fri, 25 Nov 2022 18:34:50 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+Fri, 25 Nov 2022 18:44:50 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+made connection!!!
+Sat, 26 Nov 2022 02:45:13 GMT: db connection loss. Instant reconnect.
+Sat, 26 Nov 2022 10:45:22 GMT: db connection loss. Instant reconnect.
+made connection!!!
+Sat, 26 Nov 2022 14:36:44 GMT: settings received from moderator.
+Sat, 26 Nov 2022 14:36:46 GMT: game has started.
+Sat, 26 Nov 2022 14:36:57 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Sat, 26 Nov 2022 14:37:01 GMT: settings received from moderator.
+Sat, 26 Nov 2022 14:37:02 GMT: game has started.
+Sat, 26 Nov 2022 14:46:57 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+made connection!!!
+Sat, 26 Nov 2022 15:57:09 GMT: settings received from moderator.
+Sat, 26 Nov 2022 15:57:11 GMT: game has started.
+Sat, 26 Nov 2022 15:57:30 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+Sat, 26 Nov 2022 15:57:31 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Sat, 26 Nov 2022 15:57:36 GMT: settings received from moderator.
+Sat, 26 Nov 2022 15:57:40 GMT: game has started.
+Sat, 26 Nov 2022 15:57:44 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Sat, 26 Nov 2022 16:05:51 GMT: settings received from moderator.
+Sat, 26 Nov 2022 16:06:35 GMT: game has started.
+Sat, 26 Nov 2022 16:07:30 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+Sat, 26 Nov 2022 16:07:31 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+Sat, 26 Nov 2022 16:07:45 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+Sun, 27 Nov 2022 00:07:32 GMT: db connection loss. Instant reconnect.
+Sun, 27 Nov 2022 08:08:07 GMT: db connection loss. Instant reconnect.
+Sun, 27 Nov 2022 16:08:20 GMT: db connection loss. Instant reconnect.
+Mon, 28 Nov 2022 00:08:28 GMT: db connection loss. Instant reconnect.
+Mon, 28 Nov 2022 08:09:14 GMT: db connection loss. Instant reconnect.
+Mon, 28 Nov 2022 13:59:00 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Mon, 28 Nov 2022 14:01:05 GMT: settings received from moderator.
+Mon, 28 Nov 2022 14:01:11 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+Mon, 28 Nov 2022 14:09:00 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+Mon, 28 Nov 2022 14:11:11 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+made connection!!!
+Mon, 28 Nov 2022 14:34:34 GMT: settings received from moderator.
+Mon, 28 Nov 2022 14:34:35 GMT: game has started.
+made connection!!!
+Mon, 28 Nov 2022 14:36:34 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+Mon, 28 Nov 2022 14:46:34 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+made connection!!!
+Mon, 28 Nov 2022 15:32:45 GMT: settings received from moderator.
+Mon, 28 Nov 2022 15:32:51 GMT: game has started.
+made connection!!!
+made connection!!!
+made connection!!!
+Mon, 28 Nov 2022 15:35:37 GMT: question received from moderator: 2. On what date is worker's day celebrated in Nigeria?
+Mon, 28 Nov 2022 15:35:57 GMT: announce correct answer for question 2. On what date is worker's day celebrated in Nigeria?
+made connection!!!
+Mon, 28 Nov 2022 15:37:00 GMT: moderator reconnected.
+Mon, 28 Nov 2022 15:37:01 GMT: settings received from moderator.
+Mon, 28 Nov 2022 15:37:21 GMT: question received from moderator: 6. My friend has Iatrophobia, this means he is scared of?
+Mon, 28 Nov 2022 15:37:31 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+Mon, 28 Nov 2022 15:37:42 GMT: announce correct answer for question 6. My friend has Iatrophobia, this means he is scared of?
+made connection!!!
+made connection!!!
+Mon, 28 Nov 2022 15:47:31 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+made connection!!!
+Mon, 28 Nov 2022 15:52:21 GMT: question received from moderator: 7. “Just do it “is a slogan of which of these sports brand?
+/home/ec2-user/triviabillionia-socket/index.js:222
+				analytics.times.questions[question.game_order] = {
+				                ^
+
+TypeError: Cannot read property 'questions' of undefined
+    at doCallback (/home/ec2-user/triviabillionia-socket/index.js:222:21)
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:217:5)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #1
+Version: 1.1
+Mon, 28 Nov 2022 15:52:21 GMT: Server listening at port 4000
+(node:29455) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:29455) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Mon, 28 Nov 2022 15:52:22 GMT: moderator reconnected.
+Mon, 28 Nov 2022 15:52:22 GMT: settings received from moderator.
+/home/ec2-user/triviabillionia-socket/index.js:250
+				doCallback(game_question.correct, m_correct());
+				                         ^
+
+TypeError: Cannot read property 'correct' of undefined
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:250:30)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #2
+Version: 1.1
+Mon, 28 Nov 2022 15:52:42 GMT: Server listening at port 4000
+(node:29466) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:29466) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Mon, 28 Nov 2022 15:52:42 GMT: moderator reconnected.
+Mon, 28 Nov 2022 15:52:43 GMT: settings received from moderator.
+/home/ec2-user/triviabillionia-socket/index.js:343
+			analytics.times[what] = new Date().toISOString();
+			                      ^
+
+TypeError: Cannot set property 'winners' of undefined
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:343:26)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #3
+Version: 1.1
+Mon, 28 Nov 2022 15:52:53 GMT: Server listening at port 4000
+(node:29477) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:29477) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Mon, 28 Nov 2022 15:52:53 GMT: moderator reconnected.
+Mon, 28 Nov 2022 15:52:53 GMT: settings received from moderator.
+/home/ec2-user/triviabillionia-socket/index.js:343
+			analytics.times[what] = new Date().toISOString();
+			                      ^
+
+TypeError: Cannot set property 'goodbye' of undefined
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:343:26)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #4
+Version: 1.1
+Mon, 28 Nov 2022 15:53:05 GMT: Server listening at port 4000
+(node:29489) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:29489) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Mon, 28 Nov 2022 15:53:05 GMT: moderator reconnected.
+Mon, 28 Nov 2022 15:53:06 GMT: settings received from moderator.
+/home/ec2-user/triviabillionia-socket/index.js:343
+			analytics.times[what] = new Date().toISOString();
+			                      ^
+
+TypeError: Cannot set property 'ctitles' of undefined
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:343:26)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #5
+Version: 1.1
+Mon, 28 Nov 2022 15:53:11 GMT: Server listening at port 4000
+(node:29500) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:29500) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Mon, 28 Nov 2022 15:53:12 GMT: moderator reconnected.
+Mon, 28 Nov 2022 15:53:12 GMT: settings received from moderator.
+Mon, 28 Nov 2022 15:53:41 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+made connection!!!
+Mon, 28 Nov 2022 15:57:07 GMT: settings received from moderator.
+Mon, 28 Nov 2022 15:57:09 GMT: game has started.
+made connection!!!
+Mon, 28 Nov 2022 16:00:15 GMT: question received from moderator: 2. That guy go shayo wella for mami market, means what?
+Mon, 28 Nov 2022 16:00:35 GMT: announce correct answer for question 2. That guy go shayo wella for mami market, means what?
+Mon, 28 Nov 2022 16:03:41 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+made connection!!!
+Mon, 28 Nov 2022 16:04:14 GMT: question received from moderator: 4. In what year did the World War 2 end ?
+/home/ec2-user/triviabillionia-socket/index.js:222
+				analytics.times.questions[question.game_order] = {
+				                ^
+
+TypeError: Cannot read property 'questions' of undefined
+    at doCallback (/home/ec2-user/triviabillionia-socket/index.js:222:21)
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:217:5)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #6
+Version: 1.1
+Mon, 28 Nov 2022 16:04:14 GMT: Server listening at port 4000
+(node:29581) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:29581) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Mon, 28 Nov 2022 16:04:14 GMT: moderator reconnected.
+Mon, 28 Nov 2022 16:04:15 GMT: settings received from moderator.
+/home/ec2-user/triviabillionia-socket/index.js:250
+				doCallback(game_question.correct, m_correct());
+				                         ^
+
+TypeError: Cannot read property 'correct' of undefined
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:250:30)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #7
+Version: 1.1
+Mon, 28 Nov 2022 16:04:34 GMT: Server listening at port 4000
+(node:29592) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:29592) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Mon, 28 Nov 2022 16:04:35 GMT: moderator reconnected.
+Mon, 28 Nov 2022 16:04:35 GMT: settings received from moderator.
+Mon, 28 Nov 2022 16:04:46 GMT: question received from moderator: 8. Who won the UEFA Euro Championship in 2020?
+/home/ec2-user/triviabillionia-socket/index.js:222
+				analytics.times.questions[question.game_order] = {
+				                ^
+
+TypeError: Cannot read property 'questions' of undefined
+    at doCallback (/home/ec2-user/triviabillionia-socket/index.js:222:21)
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:217:5)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #8
+Version: 1.1
+Mon, 28 Nov 2022 16:04:46 GMT: Server listening at port 4000
+(node:29603) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:29603) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Mon, 28 Nov 2022 16:04:47 GMT: moderator reconnected.
+Mon, 28 Nov 2022 16:04:47 GMT: settings received from moderator.
+/home/ec2-user/triviabillionia-socket/index.js:250
+				doCallback(game_question.correct, m_correct());
+				                         ^
+
+TypeError: Cannot read property 'correct' of undefined
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:250:30)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #9
+Version: 1.1
+Mon, 28 Nov 2022 16:05:06 GMT: Server listening at port 4000
+(node:29615) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:29615) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Mon, 28 Nov 2022 16:05:07 GMT: moderator reconnected.
+Mon, 28 Nov 2022 16:05:07 GMT: settings received from moderator.
+/home/ec2-user/triviabillionia-socket/index.js:343
+			analytics.times[what] = new Date().toISOString();
+			                      ^
+
+TypeError: Cannot set property 'winners' of undefined
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:343:26)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #10
+Version: 1.1
+Mon, 28 Nov 2022 16:05:08 GMT: Server listening at port 4000
+(node:29626) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:29626) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Mon, 28 Nov 2022 16:05:08 GMT: moderator reconnected.
+Mon, 28 Nov 2022 16:05:09 GMT: settings received from moderator.
+/home/ec2-user/triviabillionia-socket/index.js:343
+			analytics.times[what] = new Date().toISOString();
+			                      ^
+
+TypeError: Cannot set property 'goodbye' of undefined
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:343:26)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #11
+Version: 1.1
+Mon, 28 Nov 2022 16:05:36 GMT: Server listening at port 4000
+(node:29638) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:29638) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Mon, 28 Nov 2022 16:05:37 GMT: moderator reconnected.
+Mon, 28 Nov 2022 16:05:37 GMT: settings received from moderator.
+/home/ec2-user/triviabillionia-socket/index.js:343
+			analytics.times[what] = new Date().toISOString();
+			                      ^
+
+TypeError: Cannot set property 'ctitles' of undefined
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:343:26)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #12
+Version: 1.1
+Mon, 28 Nov 2022 16:05:46 GMT: Server listening at port 4000
+(node:29649) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:29649) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Mon, 28 Nov 2022 16:05:47 GMT: moderator reconnected.
+Mon, 28 Nov 2022 16:05:47 GMT: settings received from moderator.
+Mon, 28 Nov 2022 16:06:16 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+Mon, 28 Nov 2022 16:16:16 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+Tue, 29 Nov 2022 00:06:35 GMT: db connection loss. Instant reconnect.
+made connection!!!
+Tue, 29 Nov 2022 00:09:15 GMT: settings received from moderator.
+Tue, 29 Nov 2022 00:28:25 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+Tue, 29 Nov 2022 00:38:25 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+Tue, 29 Nov 2022 08:09:55 GMT: db connection loss. Instant reconnect.
+made connection!!!
+Tue, 29 Nov 2022 10:26:12 GMT: settings received from moderator.
+Tue, 29 Nov 2022 10:26:13 GMT: game has started.
+made connection!!!
+made connection!!!
+made connection!!!
+Tue, 29 Nov 2022 10:32:07 GMT: question received from moderator: 3. The song "opportunity, opportunity comes but once" was sang by which of these artistes ?
+made connection!!!
+Tue, 29 Nov 2022 10:32:27 GMT: announce correct answer for question 3. The song "opportunity, opportunity comes but once" was sang by which of these artistes ?
+Tue, 29 Nov 2022 10:32:31 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Tue, 29 Nov 2022 10:32:35 GMT: settings received from moderator.
+Tue, 29 Nov 2022 10:32:36 GMT: game has started.
+Tue, 29 Nov 2022 10:42:31 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+made connection!!!
+Tue, 29 Nov 2022 10:48:24 GMT: question received from moderator: 3. The song "opportunity, opportunity comes but once" was sang by which of these artistes ?
+/home/ec2-user/triviabillionia-socket/index.js:222
+				analytics.times.questions[question.game_order] = {
+				                ^
+
+TypeError: Cannot read property 'questions' of undefined
+    at doCallback (/home/ec2-user/triviabillionia-socket/index.js:222:21)
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:217:5)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #13
+Version: 1.1
+Tue, 29 Nov 2022 10:48:24 GMT: Server listening at port 4000
+(node:1292) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:1292) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Tue, 29 Nov 2022 10:48:25 GMT: moderator reconnected.
+Tue, 29 Nov 2022 10:48:25 GMT: settings received from moderator.
+/home/ec2-user/triviabillionia-socket/index.js:250
+				doCallback(game_question.correct, m_correct());
+				                         ^
+
+TypeError: Cannot read property 'correct' of undefined
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:250:30)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #14
+Version: 1.1
+Tue, 29 Nov 2022 10:48:44 GMT: Server listening at port 4000
+(node:1304) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:1304) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Tue, 29 Nov 2022 10:48:45 GMT: moderator reconnected.
+Tue, 29 Nov 2022 10:48:45 GMT: settings received from moderator.
+made connection!!!
+Tue, 29 Nov 2022 10:49:01 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Tue, 29 Nov 2022 10:49:04 GMT: settings received from moderator.
+Tue, 29 Nov 2022 10:49:05 GMT: game has started.
+Tue, 29 Nov 2022 10:49:10 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Tue, 29 Nov 2022 10:49:13 GMT: settings received from moderator.
+Tue, 29 Nov 2022 10:49:15 GMT: game has started.
+Tue, 29 Nov 2022 10:49:17 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Tue, 29 Nov 2022 10:50:08 GMT: settings received from moderator.
+Tue, 29 Nov 2022 10:50:10 GMT: game has started.
+made connection!!!
+made connection!!!
+made connection!!!
+made connection!!!
+Tue, 29 Nov 2022 10:56:22 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+made connection!!!
+Tue, 29 Nov 2022 10:56:27 GMT: settings received from moderator.
+Tue, 29 Nov 2022 10:56:27 GMT: game has started.
+made connection!!!
+Tue, 29 Nov 2022 10:59:01 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+Tue, 29 Nov 2022 10:59:10 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+Tue, 29 Nov 2022 10:59:17 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+Tue, 29 Nov 2022 11:06:22 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+Tue, 29 Nov 2022 11:28:45 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Tue, 29 Nov 2022 11:32:26 GMT: moderator reconnected.
+Tue, 29 Nov 2022 11:32:26 GMT: settings received from moderator.
+Tue, 29 Nov 2022 11:39:02 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Tue, 29 Nov 2022 11:43:33 GMT: moderator reconnected.
+Tue, 29 Nov 2022 11:43:34 GMT: settings received from moderator.
+made connection!!!
+Tue, 29 Nov 2022 13:19:49 GMT: question received from moderator: 3. The song "opportunity, opportunity comes but once" was sang by which of these artistes ?
+/home/ec2-user/triviabillionia-socket/index.js:222
+				analytics.times.questions[question.game_order] = {
+				                ^
+
+TypeError: Cannot read property 'questions' of undefined
+    at doCallback (/home/ec2-user/triviabillionia-socket/index.js:222:21)
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:217:5)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #15
+Version: 1.1
+Tue, 29 Nov 2022 13:19:49 GMT: Server listening at port 4000
+(node:1925) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:1925) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Tue, 29 Nov 2022 13:21:28 GMT: settings received from moderator.
+Tue, 29 Nov 2022 13:21:35 GMT: game has started.
+Tue, 29 Nov 2022 13:23:44 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Tue, 29 Nov 2022 13:30:25 GMT: moderator reconnected.
+Tue, 29 Nov 2022 13:30:26 GMT: settings received from moderator.
+Tue, 29 Nov 2022 13:38:03 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Tue, 29 Nov 2022 13:38:06 GMT: settings received from moderator.
+Tue, 29 Nov 2022 13:38:09 GMT: game has started.
+Tue, 29 Nov 2022 13:48:03 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+made connection!!!
+made connection!!!
+Tue, 29 Nov 2022 13:59:26 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Tue, 29 Nov 2022 13:59:29 GMT: settings received from moderator.
+Tue, 29 Nov 2022 13:59:30 GMT: game has started.
+Tue, 29 Nov 2022 13:59:44 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Tue, 29 Nov 2022 13:59:48 GMT: settings received from moderator.
+made connection!!!
+Tue, 29 Nov 2022 14:00:03 GMT: game has started.
+Tue, 29 Nov 2022 14:01:35 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Tue, 29 Nov 2022 14:01:39 GMT: settings received from moderator.
+Tue, 29 Nov 2022 14:01:43 GMT: game has started.
+made connection!!!
+Tue, 29 Nov 2022 14:05:34 GMT: question received from moderator: 3. The song "opportunity, opportunity comes but once" was sang by which of these artistes ?
+Tue, 29 Nov 2022 14:06:11 GMT: announce correct answer for question 3. The song "opportunity, opportunity comes but once" was sang by which of these artistes ?
+Tue, 29 Nov 2022 14:06:13 GMT: question received from moderator: 4. Buy 1 get 1 free means that?
+Tue, 29 Nov 2022 14:06:34 GMT: announce correct answer for question 4. Buy 1 get 1 free means that?
+Tue, 29 Nov 2022 14:06:36 GMT: question received from moderator: 7. Garlic, well recognized for its ability to ward off certain infections does this by producing a chemical called?
+Tue, 29 Nov 2022 14:06:57 GMT: announce correct answer for question 7. Garlic, well recognized for its ability to ward off certain infections does this by producing a chemical called?
+Tue, 29 Nov 2022 14:06:57 GMT: announcing winners.
+Tue, 29 Nov 2022 14:07:21 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Tue, 29 Nov 2022 14:08:17 GMT: settings received from moderator.
+Tue, 29 Nov 2022 14:08:55 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Tue, 29 Nov 2022 14:08:58 GMT: settings received from moderator.
+Tue, 29 Nov 2022 14:09:20 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Tue, 29 Nov 2022 14:09:22 GMT: settings received from moderator.
+Tue, 29 Nov 2022 14:09:26 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+Tue, 29 Nov 2022 14:09:44 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+Tue, 29 Nov 2022 14:09:49 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Tue, 29 Nov 2022 14:09:53 GMT: settings received from moderator.
+Tue, 29 Nov 2022 14:10:01 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Tue, 29 Nov 2022 14:10:10 GMT: settings received from moderator.
+Tue, 29 Nov 2022 14:10:21 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Tue, 29 Nov 2022 14:10:36 GMT: settings received from moderator.
+Tue, 29 Nov 2022 14:10:40 GMT: game has started.
+made connection!!!
+Tue, 29 Nov 2022 14:11:35 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+made connection!!!
+Tue, 29 Nov 2022 14:12:26 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Tue, 29 Nov 2022 14:12:27 GMT: moderator reconnected.
+Tue, 29 Nov 2022 14:12:27 GMT: settings received from moderator.
+/home/ec2-user/triviabillionia-socket/index.js:343
+			analytics.times[what] = new Date().toISOString();
+			                      ^
+
+TypeError: Cannot set property 'intro' of undefined
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:343:26)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #16
+Version: 1.1
+Tue, 29 Nov 2022 14:13:12 GMT: Server listening at port 4000
+(node:2146) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:2146) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Tue, 29 Nov 2022 14:13:12 GMT: moderator reconnected.
+Tue, 29 Nov 2022 14:13:13 GMT: settings received from moderator.
+Tue, 29 Nov 2022 14:13:16 GMT: question received from moderator: 3. What part of a plant conducts Photosynthesis?
+/home/ec2-user/triviabillionia-socket/index.js:222
+				analytics.times.questions[question.game_order] = {
+				                ^
+
+TypeError: Cannot read property 'questions' of undefined
+    at doCallback (/home/ec2-user/triviabillionia-socket/index.js:222:21)
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:217:5)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #17
+Version: 1.1
+Tue, 29 Nov 2022 14:13:17 GMT: Server listening at port 4000
+(node:2159) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:2159) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Tue, 29 Nov 2022 14:13:18 GMT: moderator reconnected.
+Tue, 29 Nov 2022 14:13:18 GMT: settings received from moderator.
+/home/ec2-user/triviabillionia-socket/index.js:250
+				doCallback(game_question.correct, m_correct());
+				                         ^
+
+TypeError: Cannot read property 'correct' of undefined
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:250:30)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #18
+Version: 1.1
+Tue, 29 Nov 2022 14:14:07 GMT: Server listening at port 4000
+(node:2171) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:2171) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Tue, 29 Nov 2022 14:14:08 GMT: moderator reconnected.
+Tue, 29 Nov 2022 14:14:09 GMT: settings received from moderator.
+made connection!!!
+Tue, 29 Nov 2022 14:25:08 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Tue, 29 Nov 2022 14:25:19 GMT: settings received from moderator.
+Tue, 29 Nov 2022 14:25:22 GMT: game has started.
+made connection!!!
+made connection!!!
+Tue, 29 Nov 2022 14:32:02 GMT: question received from moderator: 3. What part of a plant conducts Photosynthesis?
+Tue, 29 Nov 2022 14:32:22 GMT: announce correct answer for question 3. What part of a plant conducts Photosynthesis?
+Tue, 29 Nov 2022 14:34:45 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+Tue, 29 Nov 2022 14:35:08 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+made connection!!!
+Tue, 29 Nov 2022 14:35:26 GMT: moderator reconnected.
+Tue, 29 Nov 2022 14:35:26 GMT: settings received from moderator.
+made connection!!!
+made connection!!!
+made connection!!!
+made connection!!!
+made connection!!!
+made connection!!!
+Tue, 29 Nov 2022 14:57:35 GMT: settings received from moderator.
+Tue, 29 Nov 2022 14:57:47 GMT: game has started.
+made connection!!!
+Tue, 29 Nov 2022 15:00:32 GMT: question received from moderator: 3. What part of a plant conducts Photosynthesis?
+Tue, 29 Nov 2022 15:00:52 GMT: announce correct answer for question 3. What part of a plant conducts Photosynthesis?
+made connection!!!
+Tue, 29 Nov 2022 15:01:38 GMT: question received from moderator: 6. What is the study of stars, planets and galaxies is called?
+Tue, 29 Nov 2022 15:01:59 GMT: announce correct answer for question 6. What is the study of stars, planets and galaxies is called?
+Tue, 29 Nov 2022 15:03:39 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Tue, 29 Nov 2022 15:10:03 GMT: settings received from moderator.
+Tue, 29 Nov 2022 15:10:14 GMT: game has started.
+made connection!!!
+made connection!!!
+Tue, 29 Nov 2022 15:12:29 GMT: moderator reconnected.
+Tue, 29 Nov 2022 15:12:30 GMT: settings received from moderator.
+Tue, 29 Nov 2022 15:13:08 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+Tue, 29 Nov 2022 15:13:34 GMT: question received from moderator: 3. What part of a plant conducts Photosynthesis?
+Tue, 29 Nov 2022 15:13:54 GMT: announce correct answer for question 3. What part of a plant conducts Photosynthesis?
+made connection!!!
+Tue, 29 Nov 2022 15:15:56 GMT: question received from moderator: 6. What is the study of stars, planets and galaxies is called?
+Tue, 29 Nov 2022 15:16:16 GMT: announce correct answer for question 6. What is the study of stars, planets and galaxies is called?
+made connection!!!
+Tue, 29 Nov 2022 15:17:40 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Tue, 29 Nov 2022 15:19:11 GMT: settings received from moderator.
+Tue, 29 Nov 2022 15:19:16 GMT: game has started.
+made connection!!!
+Tue, 29 Nov 2022 15:23:08 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+made connection!!!
+Tue, 29 Nov 2022 15:24:17 GMT: question received from moderator: 3. In what part of the body will you find the Femur?
+/home/ec2-user/triviabillionia-socket/index.js:222
+				analytics.times.questions[question.game_order] = {
+				                ^
+
+TypeError: Cannot read property 'questions' of undefined
+    at doCallback (/home/ec2-user/triviabillionia-socket/index.js:222:21)
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:217:5)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #19
+Version: 1.1
+Tue, 29 Nov 2022 15:24:17 GMT: Server listening at port 4000
+(node:2479) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:2479) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Tue, 29 Nov 2022 15:24:18 GMT: moderator reconnected.
+Tue, 29 Nov 2022 15:24:18 GMT: settings received from moderator.
+made connection!!!
+Tue, 29 Nov 2022 15:24:18 GMT: moderator reconnected.
+Tue, 29 Nov 2022 15:24:19 GMT: settings received from moderator.
+/home/ec2-user/triviabillionia-socket/index.js:250
+				doCallback(game_question.correct, m_correct());
+				                         ^
+
+TypeError: Cannot read property 'correct' of undefined
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:250:30)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #20
+Version: 1.1
+Tue, 29 Nov 2022 15:24:37 GMT: Server listening at port 4000
+(node:2490) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:2490) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Tue, 29 Nov 2022 15:24:38 GMT: moderator reconnected.
+Tue, 29 Nov 2022 15:24:38 GMT: settings received from moderator.
+made connection!!!
+Tue, 29 Nov 2022 15:24:39 GMT: moderator reconnected.
+Tue, 29 Nov 2022 15:24:40 GMT: settings received from moderator.
+Tue, 29 Nov 2022 15:31:38 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Tue, 29 Nov 2022 15:31:46 GMT: settings received from moderator.
+Tue, 29 Nov 2022 15:31:49 GMT: game has started.
+made connection!!!
+Tue, 29 Nov 2022 15:38:07 GMT: question received from moderator: 3. In what part of the body will you find the Femur?
+Tue, 29 Nov 2022 15:38:27 GMT: announce correct answer for question 3. In what part of the body will you find the Femur?
+made connection!!!
+Tue, 29 Nov 2022 15:41:38 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+made connection!!!
+Tue, 29 Nov 2022 15:42:14 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Tue, 29 Nov 2022 15:42:20 GMT: settings received from moderator.
+made connection!!!
+made connection!!!
+Tue, 29 Nov 2022 15:43:15 GMT: game has started.
+Tue, 29 Nov 2022 15:49:13 GMT: question received from moderator: 3. In what part of the body will you find the Femur?
+Tue, 29 Nov 2022 15:49:33 GMT: announce correct answer for question 3. In what part of the body will you find the Femur?
+Tue, 29 Nov 2022 15:49:53 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+Tue, 29 Nov 2022 15:52:14 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+made connection!!!
+Tue, 29 Nov 2022 15:53:01 GMT: settings received from moderator.
+Tue, 29 Nov 2022 15:53:03 GMT: game has started.
+made connection!!!
+Tue, 29 Nov 2022 15:57:00 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Tue, 29 Nov 2022 15:58:41 GMT: moderator reconnected.
+Tue, 29 Nov 2022 15:58:41 GMT: settings received from moderator.
+Tue, 29 Nov 2022 15:59:53 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+made connection!!!
+Tue, 29 Nov 2022 16:00:43 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+made connection!!!
+Tue, 29 Nov 2022 16:06:06 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Tue, 29 Nov 2022 16:06:11 GMT: settings received from moderator.
+Tue, 29 Nov 2022 16:06:12 GMT: game has started.
+made connection!!!
+Tue, 29 Nov 2022 16:10:43 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+made connection!!!
+Tue, 29 Nov 2022 16:14:23 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Tue, 29 Nov 2022 16:14:32 GMT: settings received from moderator.
+Tue, 29 Nov 2022 16:15:09 GMT: game has started.
+made connection!!!
+Tue, 29 Nov 2022 16:16:06 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+made connection!!!
+/home/ec2-user/triviabillionia-socket/index.js:343
+			analytics.times[what] = new Date().toISOString();
+			                      ^
+
+TypeError: Cannot set property 'intro' of undefined
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:343:26)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #21
+Version: 1.1
+Tue, 29 Nov 2022 16:17:39 GMT: Server listening at port 4000
+(node:2689) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:2689) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Tue, 29 Nov 2022 16:17:40 GMT: moderator reconnected.
+Tue, 29 Nov 2022 16:17:40 GMT: settings received from moderator.
+Tue, 29 Nov 2022 16:19:19 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Tue, 29 Nov 2022 16:19:52 GMT: settings received from moderator.
+Tue, 29 Nov 2022 16:19:54 GMT: game has started.
+made connection!!!
+Tue, 29 Nov 2022 16:29:19 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+made connection!!!
+Tue, 29 Nov 2022 16:36:20 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Tue, 29 Nov 2022 16:46:20 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+made connection!!!
+Wed, 30 Nov 2022 00:30:00 GMT: db connection loss. Instant reconnect.
+Wed, 30 Nov 2022 08:30:50 GMT: db connection loss. Instant reconnect.
+made connection!!!
+Wed, 30 Nov 2022 12:49:39 GMT: settings received from moderator.
+Wed, 30 Nov 2022 12:49:42 GMT: game has started.
+made connection!!!
+made connection!!!
+made connection!!!
+made connection!!!
+Wed, 30 Nov 2022 12:56:16 GMT: question received from moderator: 1. Which of these is the least likely to be done by a Nigerian on a Friday night?
+Wed, 30 Nov 2022 12:56:36 GMT: announce correct answer for question 1. Which of these is the least likely to be done by a Nigerian on a Friday night?
+Wed, 30 Nov 2022 12:56:42 GMT: question received from moderator: 4. What happens when you put a rotten egg in water?
+Wed, 30 Nov 2022 12:57:02 GMT: announce correct answer for question 4. What happens when you put a rotten egg in water?
+Wed, 30 Nov 2022 12:57:09 GMT: question received from moderator: 9. All of these Universities have their motto as "Knowledge for Service" EXCEPT?
+Wed, 30 Nov 2022 12:57:29 GMT: announce correct answer for question 9. All of these Universities have their motto as "Knowledge for Service" EXCEPT?
+Wed, 30 Nov 2022 12:57:33 GMT: announcing winners.
+Wed, 30 Nov 2022 12:58:41 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+Wed, 30 Nov 2022 13:08:41 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+Wed, 30 Nov 2022 21:09:16 GMT: db connection loss. Instant reconnect.
+Thu, 01 Dec 2022 05:09:19 GMT: db connection loss. Instant reconnect.
+Thu, 01 Dec 2022 13:09:33 GMT: db connection loss. Instant reconnect.
+made connection!!!
+Thu, 01 Dec 2022 17:00:43 GMT: settings received from moderator.
+Thu, 01 Dec 2022 17:01:43 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+Thu, 01 Dec 2022 17:11:43 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+Fri, 02 Dec 2022 01:01:19 GMT: db connection loss. Instant reconnect.
+Fri, 02 Dec 2022 09:02:07 GMT: db connection loss. Instant reconnect.
+Fri, 02 Dec 2022 17:02:10 GMT: db connection loss. Instant reconnect.
+Sat, 03 Dec 2022 01:02:14 GMT: db connection loss. Instant reconnect.
+Sat, 03 Dec 2022 09:02:18 GMT: db connection loss. Instant reconnect.
+Sat, 03 Dec 2022 17:02:24 GMT: db connection loss. Instant reconnect.
+Sun, 04 Dec 2022 01:02:32 GMT: db connection loss. Instant reconnect.
+Sun, 04 Dec 2022 09:02:40 GMT: db connection loss. Instant reconnect.
+Sun, 04 Dec 2022 17:02:53 GMT: db connection loss. Instant reconnect.
+Mon, 05 Dec 2022 01:03:09 GMT: db connection loss. Instant reconnect.
+Mon, 05 Dec 2022 09:03:30 GMT: db connection loss. Instant reconnect.
+Mon, 05 Dec 2022 17:03:49 GMT: db connection loss. Instant reconnect.
+Tue, 06 Dec 2022 01:04:02 GMT: db connection loss. Instant reconnect.
+Tue, 06 Dec 2022 09:04:23 GMT: db connection loss. Instant reconnect.
+Tue, 06 Dec 2022 17:04:36 GMT: db connection loss. Instant reconnect.
+Wed, 07 Dec 2022 01:04:48 GMT: db connection loss. Instant reconnect.
+Wed, 07 Dec 2022 09:05:07 GMT: db connection loss. Instant reconnect.
+Wed, 07 Dec 2022 17:05:24 GMT: db connection loss. Instant reconnect.
+made connection!!!
+Wed, 07 Dec 2022 17:10:23 GMT: settings received from moderator.
+Wed, 07 Dec 2022 17:10:32 GMT: game has started.
+made connection!!!
+made connection!!!
+made connection!!!
+Wed, 07 Dec 2022 17:25:00 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+Wed, 07 Dec 2022 17:35:00 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+Thu, 08 Dec 2022 01:35:19 GMT: db connection loss. Instant reconnect.
+Thu, 08 Dec 2022 09:35:36 GMT: db connection loss. Instant reconnect.
+Thu, 08 Dec 2022 17:36:02 GMT: db connection loss. Instant reconnect.
+Fri, 09 Dec 2022 01:36:21 GMT: db connection loss. Instant reconnect.
+Fri, 09 Dec 2022 09:36:48 GMT: db connection loss. Instant reconnect.
+Fri, 09 Dec 2022 17:37:02 GMT: db connection loss. Instant reconnect.
+Sat, 10 Dec 2022 01:37:19 GMT: db connection loss. Instant reconnect.
+Sat, 10 Dec 2022 09:37:26 GMT: db connection loss. Instant reconnect.
+Sat, 10 Dec 2022 17:37:39 GMT: db connection loss. Instant reconnect.
+Sun, 11 Dec 2022 01:37:50 GMT: db connection loss. Instant reconnect.
+Sun, 11 Dec 2022 09:38:06 GMT: db connection loss. Instant reconnect.
+Sun, 11 Dec 2022 17:38:49 GMT: db connection loss. Instant reconnect.
+Mon, 12 Dec 2022 01:39:12 GMT: db connection loss. Instant reconnect.
+Mon, 12 Dec 2022 09:39:22 GMT: db connection loss. Instant reconnect.
+Mon, 12 Dec 2022 17:39:41 GMT: db connection loss. Instant reconnect.
+Tue, 13 Dec 2022 01:39:47 GMT: db connection loss. Instant reconnect.
+Tue, 13 Dec 2022 09:39:52 GMT: db connection loss. Instant reconnect.
+Tue, 13 Dec 2022 17:39:56 GMT: db connection loss. Instant reconnect.
+Wed, 14 Dec 2022 01:39:58 GMT: db connection loss. Instant reconnect.
+Wed, 14 Dec 2022 09:40:06 GMT: db connection loss. Instant reconnect.
+made connection!!!
+Wed, 14 Dec 2022 13:04:49 GMT: settings received from moderator.
+Wed, 14 Dec 2022 13:19:44 GMT: game has started.
+made connection!!!
+made connection!!!
+made connection!!!
+made connection!!!
+made connection!!!
+made connection!!!
+made connection!!!
+made connection!!!
+made connection!!!
+made connection!!!
+Wed, 14 Dec 2022 13:28:29 GMT: question received from moderator: 1. The popular street slang Awoof refers to which of the following?
+Wed, 14 Dec 2022 13:28:49 GMT: announce correct answer for question 1. The popular street slang Awoof refers to which of the following?
+Wed, 14 Dec 2022 13:29:11 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Wed, 14 Dec 2022 13:29:21 GMT: settings received from moderator.
+Wed, 14 Dec 2022 13:29:27 GMT: game has started.
+made connection!!!
+made connection!!!
+made connection!!!
+Wed, 14 Dec 2022 13:32:17 GMT: question received from moderator: 1. The popular street slang Awoof refers to which of the following?
+Wed, 14 Dec 2022 13:32:37 GMT: announce correct answer for question 1. The popular street slang Awoof refers to which of the following?
+Wed, 14 Dec 2022 13:33:02 GMT: question received from moderator: 2. Which of these artistes won the Next Rated award category at the 2022 Headies award ceremony?
+Wed, 14 Dec 2022 13:33:22 GMT: announce correct answer for question 2. Which of these artistes won the Next Rated award category at the 2022 Headies award ceremony?
+Wed, 14 Dec 2022 13:33:51 GMT: question received from moderator: 3. Serengeti National Park is in which of these countries?
+Wed, 14 Dec 2022 13:34:11 GMT: announce correct answer for question 3. Serengeti National Park is in which of these countries?
+Wed, 14 Dec 2022 13:35:03 GMT: question received from moderator: 4. Who is the current Speaker of the House of Representatives in Nigeria?
+Wed, 14 Dec 2022 13:35:23 GMT: announce correct answer for question 4. Who is the current Speaker of the House of Representatives in Nigeria?
+Wed, 14 Dec 2022 13:36:27 GMT: question received from moderator: 5. The term diamond formation in football typically refers to the positioning of which players?
+Wed, 14 Dec 2022 13:36:27 GMT: question received from moderator: 6. Who sang the famous hit song Vuli Ndlela that was released in 1997?
+Wed, 14 Dec 2022 13:36:47 GMT: announce correct answer for question 6. Who sang the famous hit song Vuli Ndlela that was released in 1997?
+Wed, 14 Dec 2022 13:36:47 GMT: announce correct answer for question 6. Who sang the famous hit song Vuli Ndlela that was released in 1997?
+Wed, 14 Dec 2022 13:36:47 GMT: announce correct answer for question 6. Who sang the famous hit song Vuli Ndlela that was released in 1997?
+Wed, 14 Dec 2022 13:38:18 GMT: announcing winners.
+Wed, 14 Dec 2022 13:38:23 GMT: announcing winners.
+Wed, 14 Dec 2022 13:38:27 GMT: announcing winners.
+Wed, 14 Dec 2022 13:39:11 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+Wed, 14 Dec 2022 13:43:19 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+Wed, 14 Dec 2022 13:53:19 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+Wed, 14 Dec 2022 21:39:49 GMT: db connection loss. Instant reconnect.
+Thu, 15 Dec 2022 05:39:59 GMT: db connection loss. Instant reconnect.
+Thu, 15 Dec 2022 13:40:25 GMT: db connection loss. Instant reconnect.
+Thu, 15 Dec 2022 21:40:48 GMT: db connection loss. Instant reconnect.
+Fri, 16 Dec 2022 05:41:19 GMT: db connection loss. Instant reconnect.
+Fri, 16 Dec 2022 13:41:43 GMT: db connection loss. Instant reconnect.
+Fri, 16 Dec 2022 21:42:26 GMT: db connection loss. Instant reconnect.
+Sat, 17 Dec 2022 05:43:13 GMT: db connection loss. Instant reconnect.
+Sat, 17 Dec 2022 13:43:54 GMT: db connection loss. Instant reconnect.
+Sat, 17 Dec 2022 21:44:18 GMT: db connection loss. Instant reconnect.
+Sun, 18 Dec 2022 05:44:46 GMT: db connection loss. Instant reconnect.
+Sun, 18 Dec 2022 13:45:10 GMT: db connection loss. Instant reconnect.
+Sun, 18 Dec 2022 21:45:27 GMT: db connection loss. Instant reconnect.
+Mon, 19 Dec 2022 05:45:53 GMT: db connection loss. Instant reconnect.
+Mon, 19 Dec 2022 13:46:20 GMT: db connection loss. Instant reconnect.
+Mon, 19 Dec 2022 21:46:52 GMT: db connection loss. Instant reconnect.
+Tue, 20 Dec 2022 05:47:30 GMT: db connection loss. Instant reconnect.
+Tue, 20 Dec 2022 13:48:14 GMT: db connection loss. Instant reconnect.
+Tue, 20 Dec 2022 21:48:46 GMT: db connection loss. Instant reconnect.
+Wed, 21 Dec 2022 05:49:24 GMT: db connection loss. Instant reconnect.
+Wed, 21 Dec 2022 13:49:53 GMT: db connection loss. Instant reconnect.
+Wed, 21 Dec 2022 21:50:14 GMT: db connection loss. Instant reconnect.
+Thu, 22 Dec 2022 05:50:30 GMT: db connection loss. Instant reconnect.
+Thu, 22 Dec 2022 13:51:08 GMT: db connection loss. Instant reconnect.
+Thu, 22 Dec 2022 21:51:33 GMT: db connection loss. Instant reconnect.
+made connection!!!
+Thu, 22 Dec 2022 22:55:55 GMT: settings received from moderator.
+Thu, 22 Dec 2022 22:56:09 GMT: game has started.
+made connection!!!
+made connection!!!
+Thu, 22 Dec 2022 22:59:16 GMT: question received from moderator: 2. Which of these cities is the capital of the country Finland?
+Thu, 22 Dec 2022 22:59:36 GMT: announce correct answer for question 2. Which of these cities is the capital of the country Finland?
+Thu, 22 Dec 2022 22:59:50 GMT: question received from moderator: 5. Which of these is the correct order to apply make up ?
+Thu, 22 Dec 2022 23:00:10 GMT: announce correct answer for question 5. Which of these is the correct order to apply make up ?
+Thu, 22 Dec 2022 23:00:26 GMT: announcing winners.
+Thu, 22 Dec 2022 23:01:19 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Thu, 22 Dec 2022 23:06:23 GMT: settings received from moderator.
+Thu, 22 Dec 2022 23:06:29 GMT: game has started.
+made connection!!!
+Thu, 22 Dec 2022 23:09:30 GMT: question received from moderator: 3. Complete this carol - on the 3rd day of Christmas my true love gave to me, three  ?
+Thu, 22 Dec 2022 23:09:50 GMT: announce correct answer for question 3. Complete this carol - on the 3rd day of Christmas my true love gave to me, three  ?
+Thu, 22 Dec 2022 23:10:00 GMT: question received from moderator: 10. Who is the current Minister of Petroleum Resources in Nigeria?
+Thu, 22 Dec 2022 23:10:20 GMT: announce correct answer for question 10. Who is the current Minister of Petroleum Resources in Nigeria?
+Thu, 22 Dec 2022 23:10:34 GMT: announcing winners.
+made connection!!!
+Thu, 22 Dec 2022 23:11:19 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+/home/ec2-user/triviabillionia-socket/index.js:343
+			analytics.times[what] = new Date().toISOString();
+			                      ^
+
+TypeError: Cannot set property 'goodbye' of undefined
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:343:26)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #22
+Version: 1.1
+Thu, 22 Dec 2022 23:11:26 GMT: Server listening at port 4000
+(node:2183) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:2183) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Thu, 22 Dec 2022 23:11:26 GMT: moderator reconnected.
+Thu, 22 Dec 2022 23:11:27 GMT: settings received from moderator.
+/home/ec2-user/triviabillionia-socket/index.js:343
+			analytics.times[what] = new Date().toISOString();
+			                      ^
+
+TypeError: Cannot set property 'ctitles' of undefined
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:343:26)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #23
+Version: 1.1
+Thu, 22 Dec 2022 23:11:32 GMT: Server listening at port 4000
+(node:2194) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:2194) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Thu, 22 Dec 2022 23:11:32 GMT: moderator reconnected.
+Thu, 22 Dec 2022 23:11:32 GMT: settings received from moderator.
+Thu, 22 Dec 2022 23:12:02 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+Thu, 22 Dec 2022 23:22:02 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+Fri, 23 Dec 2022 07:12:01 GMT: db connection loss. Instant reconnect.
+Fri, 23 Dec 2022 15:12:25 GMT: db connection loss. Instant reconnect.
+made connection!!!
+Fri, 23 Dec 2022 17:22:30 GMT: settings received from moderator.
+Fri, 23 Dec 2022 17:22:42 GMT: game has started.
+Fri, 23 Dec 2022 18:00:25 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+Fri, 23 Dec 2022 18:10:25 GMT: moderator has fully disconnected (600 seconds has passed since disconnect event). Disconnecing all users.
+made connection!!!
+Sat, 24 Dec 2022 02:11:07 GMT: db connection loss. Instant reconnect.
+Sat, 24 Dec 2022 10:11:51 GMT: db connection loss. Instant reconnect.
+Sat, 24 Dec 2022 18:12:31 GMT: db connection loss. Instant reconnect.
+Sun, 25 Dec 2022 02:13:19 GMT: db connection loss. Instant reconnect.
+Sun, 25 Dec 2022 10:13:25 GMT: db connection loss. Instant reconnect.
+Sun, 25 Dec 2022 18:14:10 GMT: db connection loss. Instant reconnect.
+Mon, 26 Dec 2022 02:14:58 GMT: db connection loss. Instant reconnect.
+Mon, 26 Dec 2022 10:15:44 GMT: db connection loss. Instant reconnect.
+Mon, 26 Dec 2022 18:16:16 GMT: db connection loss. Instant reconnect.
+Tue, 27 Dec 2022 02:17:03 GMT: db connection loss. Instant reconnect.
+Tue, 27 Dec 2022 10:17:53 GMT: db connection loss. Instant reconnect.
+Tue, 27 Dec 2022 18:18:02 GMT: db connection loss. Instant reconnect.
+Wed, 28 Dec 2022 02:18:50 GMT: db connection loss. Instant reconnect.
+Wed, 28 Dec 2022 10:19:11 GMT: db connection loss. Instant reconnect.
+Wed, 28 Dec 2022 18:19:15 GMT: db connection loss. Instant reconnect.
+Thu, 29 Dec 2022 02:19:20 GMT: db connection loss. Instant reconnect.
+Thu, 29 Dec 2022 10:19:34 GMT: db connection loss. Instant reconnect.
+Thu, 29 Dec 2022 18:19:42 GMT: db connection loss. Instant reconnect.
+Fri, 30 Dec 2022 02:20:24 GMT: db connection loss. Instant reconnect.
+Fri, 30 Dec 2022 10:20:38 GMT: db connection loss. Instant reconnect.
+Fri, 30 Dec 2022 18:20:57 GMT: db connection loss. Instant reconnect.
+Sat, 31 Dec 2022 02:21:03 GMT: db connection loss. Instant reconnect.
+Sat, 31 Dec 2022 10:21:51 GMT: db connection loss. Instant reconnect.
+Sat, 31 Dec 2022 18:21:59 GMT: db connection loss. Instant reconnect.
+Sun, 01 Jan 2023 02:22:17 GMT: db connection loss. Instant reconnect.
+Sun, 01 Jan 2023 10:22:36 GMT: db connection loss. Instant reconnect.
+Sun, 01 Jan 2023 18:22:44 GMT: db connection loss. Instant reconnect.
+Mon, 02 Jan 2023 02:22:47 GMT: db connection loss. Instant reconnect.
+Mon, 02 Jan 2023 10:22:57 GMT: db connection loss. Instant reconnect.
+Mon, 02 Jan 2023 18:23:12 GMT: db connection loss. Instant reconnect.
+Tue, 03 Jan 2023 02:23:29 GMT: db connection loss. Instant reconnect.
+Tue, 03 Jan 2023 10:23:59 GMT: db connection loss. Instant reconnect.
+Tue, 03 Jan 2023 18:24:28 GMT: db connection loss. Instant reconnect.
+Wed, 04 Jan 2023 02:24:41 GMT: db connection loss. Instant reconnect.
+Wed, 04 Jan 2023 10:24:49 GMT: db connection loss. Instant reconnect.
+Wed, 04 Jan 2023 18:25:13 GMT: db connection loss. Instant reconnect.
+Thu, 05 Jan 2023 02:25:34 GMT: db connection loss. Instant reconnect.
+Thu, 05 Jan 2023 10:25:50 GMT: db connection loss. Instant reconnect.
+Thu, 05 Jan 2023 18:26:11 GMT: db connection loss. Instant reconnect.
+Fri, 06 Jan 2023 02:26:29 GMT: db connection loss. Instant reconnect.
+Fri, 06 Jan 2023 10:26:42 GMT: db connection loss. Instant reconnect.
+Fri, 06 Jan 2023 18:26:45 GMT: db connection loss. Instant reconnect.
+Sat, 07 Jan 2023 02:27:33 GMT: db connection loss. Instant reconnect.
+Sat, 07 Jan 2023 10:28:10 GMT: db connection loss. Instant reconnect.
+Sat, 07 Jan 2023 18:28:51 GMT: db connection loss. Instant reconnect.
+Sun, 08 Jan 2023 02:29:36 GMT: db connection loss. Instant reconnect.
+Sun, 08 Jan 2023 10:30:24 GMT: db connection loss. Instant reconnect.
+Sun, 08 Jan 2023 18:31:08 GMT: db connection loss. Instant reconnect.
+Mon, 09 Jan 2023 02:31:46 GMT: db connection loss. Instant reconnect.
+Mon, 09 Jan 2023 10:32:29 GMT: db connection loss. Instant reconnect.
+Mon, 09 Jan 2023 18:32:39 GMT: db connection loss. Instant reconnect.
+Tue, 10 Jan 2023 02:32:49 GMT: db connection loss. Instant reconnect.
+Tue, 10 Jan 2023 10:32:54 GMT: db connection loss. Instant reconnect.
+Tue, 10 Jan 2023 18:33:15 GMT: db connection loss. Instant reconnect.
+Wed, 11 Jan 2023 02:33:58 GMT: db connection loss. Instant reconnect.
+Wed, 11 Jan 2023 10:34:36 GMT: db connection loss. Instant reconnect.
+Wed, 11 Jan 2023 18:35:17 GMT: db connection loss. Instant reconnect.
+Thu, 12 Jan 2023 02:35:40 GMT: db connection loss. Instant reconnect.
+Thu, 12 Jan 2023 10:36:29 GMT: db connection loss. Instant reconnect.
+Thu, 12 Jan 2023 18:36:42 GMT: db connection loss. Instant reconnect.
+Fri, 13 Jan 2023 02:36:47 GMT: db connection loss. Instant reconnect.
+Fri, 13 Jan 2023 10:37:02 GMT: db connection loss. Instant reconnect.
+Fri, 13 Jan 2023 18:37:39 GMT: db connection loss. Instant reconnect.
+Sat, 14 Jan 2023 02:37:43 GMT: db connection loss. Instant reconnect.
+Sat, 14 Jan 2023 10:37:47 GMT: db connection loss. Instant reconnect.
+Sat, 14 Jan 2023 18:38:27 GMT: db connection loss. Instant reconnect.
+Sun, 15 Jan 2023 02:38:30 GMT: db connection loss. Instant reconnect.
+Sun, 15 Jan 2023 10:39:11 GMT: db connection loss. Instant reconnect.
+Sun, 15 Jan 2023 18:39:54 GMT: db connection loss. Instant reconnect.
+Mon, 16 Jan 2023 02:40:39 GMT: db connection loss. Instant reconnect.
+Mon, 16 Jan 2023 10:40:53 GMT: db connection loss. Instant reconnect.
+Mon, 16 Jan 2023 18:40:57 GMT: db connection loss. Instant reconnect.
+Tue, 17 Jan 2023 02:41:03 GMT: db connection loss. Instant reconnect.
+Tue, 17 Jan 2023 10:41:16 GMT: db connection loss. Instant reconnect.
+Tue, 17 Jan 2023 18:41:38 GMT: db connection loss. Instant reconnect.
+Wed, 18 Jan 2023 02:41:47 GMT: db connection loss. Instant reconnect.
+Wed, 18 Jan 2023 10:42:09 GMT: db connection loss. Instant reconnect.
+Wed, 18 Jan 2023 18:42:55 GMT: db connection loss. Instant reconnect.
+Thu, 19 Jan 2023 02:43:12 GMT: db connection loss. Instant reconnect.
+Thu, 19 Jan 2023 10:43:26 GMT: db connection loss. Instant reconnect.
+Thu, 19 Jan 2023 18:44:11 GMT: db connection loss. Instant reconnect.
+Fri, 20 Jan 2023 02:44:50 GMT: db connection loss. Instant reconnect.
+Fri, 20 Jan 2023 10:45:29 GMT: db connection loss. Instant reconnect.
+Fri, 20 Jan 2023 18:45:56 GMT: db connection loss. Instant reconnect.
+Sat, 21 Jan 2023 02:46:12 GMT: db connection loss. Instant reconnect.
+Sat, 21 Jan 2023 10:46:23 GMT: db connection loss. Instant reconnect.
+Sat, 21 Jan 2023 18:46:35 GMT: db connection loss. Instant reconnect.
+Sun, 22 Jan 2023 02:46:43 GMT: db connection loss. Instant reconnect.
+Sun, 22 Jan 2023 10:46:52 GMT: db connection loss. Instant reconnect.
+Sun, 22 Jan 2023 18:46:56 GMT: db connection loss. Instant reconnect.
+Mon, 23 Jan 2023 02:47:00 GMT: db connection loss. Instant reconnect.
+Mon, 23 Jan 2023 10:47:15 GMT: db connection loss. Instant reconnect.
+Mon, 23 Jan 2023 18:47:28 GMT: db connection loss. Instant reconnect.
+Tue, 24 Jan 2023 02:47:33 GMT: db connection loss. Instant reconnect.
+Tue, 24 Jan 2023 10:47:37 GMT: db connection loss. Instant reconnect.
+Tue, 24 Jan 2023 18:47:44 GMT: db connection loss. Instant reconnect.
+Wed, 25 Jan 2023 02:47:52 GMT: db connection loss. Instant reconnect.
+Wed, 25 Jan 2023 10:48:34 GMT: db connection loss. Instant reconnect.
+Wed, 25 Jan 2023 18:48:35 GMT: db connection loss. Instant reconnect.
+Thu, 26 Jan 2023 02:48:56 GMT: db connection loss. Instant reconnect.
+Thu, 26 Jan 2023 10:49:04 GMT: db connection loss. Instant reconnect.
+Thu, 26 Jan 2023 18:49:48 GMT: db connection loss. Instant reconnect.
+Fri, 27 Jan 2023 02:50:01 GMT: db connection loss. Instant reconnect.
+Fri, 27 Jan 2023 10:50:24 GMT: db connection loss. Instant reconnect.
+Fri, 27 Jan 2023 18:51:02 GMT: db connection loss. Instant reconnect.
+Sat, 28 Jan 2023 02:51:23 GMT: db connection loss. Instant reconnect.
+Sat, 28 Jan 2023 10:51:44 GMT: db connection loss. Instant reconnect.
+Sat, 28 Jan 2023 18:52:06 GMT: db connection loss. Instant reconnect.
+Sun, 29 Jan 2023 02:52:36 GMT: db connection loss. Instant reconnect.
+Sun, 29 Jan 2023 10:52:53 GMT: db connection loss. Instant reconnect.
+Sun, 29 Jan 2023 18:53:27 GMT: db connection loss. Instant reconnect.
+Mon, 30 Jan 2023 02:54:03 GMT: db connection loss. Instant reconnect.
+Mon, 30 Jan 2023 10:54:50 GMT: db connection loss. Instant reconnect.
+Mon, 30 Jan 2023 18:55:38 GMT: db connection loss. Instant reconnect.
+Tue, 31 Jan 2023 02:55:46 GMT: db connection loss. Instant reconnect.
+Tue, 31 Jan 2023 10:56:15 GMT: db connection loss. Instant reconnect.
+Tue, 31 Jan 2023 18:56:42 GMT: db connection loss. Instant reconnect.
+Wed, 01 Feb 2023 02:57:16 GMT: db connection loss. Instant reconnect.

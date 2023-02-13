@@ -1,0 +1,15 @@
+Version: 1.1
+Thu, 24 Nov 2022 18:23:42 GMT: Server listening at port 4000
+(node:4177) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:4177) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+Thu, 24 Nov 2022 18:23:43 GMT: moderator reconnected.
+Thu, 24 Nov 2022 18:23:43 GMT: settings received from moderator.
+Thu, 24 Nov 2022 18:27:20 GMT: moderator has disconnected. Waiting 60 seconds to verify it's not an accident.
+Thu, 24 Nov 2022 18:27:34 GMT: settings received from moderator.
+Thu, 24 Nov 2022 18:28:20 GMT: moderator has fully disconnected (60 seconds has passed since disconnect event). Disconnecing all users.
+Thu, 24 Nov 2022 18:37:56 GMT: moderator has disconnected. Waiting 60 seconds to verify it's not an accident.
+Thu, 24 Nov 2022 18:38:19 GMT: settings received from moderator.
+Thu, 24 Nov 2022 18:38:56 GMT: moderator has fully disconnected (60 seconds has passed since disconnect event). Disconnecing all users.
+Thu, 24 Nov 2022 18:41:15 GMT: moderator has disconnected. Waiting 60 seconds to verify it's not an accident.
+Thu, 24 Nov 2022 18:41:32 GMT: settings received from moderator.
+error: Forever detected script was killed by signal: SIGKILL

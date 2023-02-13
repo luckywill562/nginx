@@ -1,0 +1,39 @@
+0 info it worked if it ends with ok
+1 verbose cli [
+1 verbose cli   '/home/ec2-user/.nvm/versions/node/v12.13.0/bin/node',
+1 verbose cli   '/home/ec2-user/.nvm/versions/node/v12.13.0/lib/node_modules/npm/bin/npm-cli.js',
+1 verbose cli   'run',
+1 verbose cli   'rebuild'
+1 verbose cli ]
+2 info using npm@6.12.0
+3 info using node@v12.13.0
+4 verbose run-script [ 'prerebuild', 'rebuild', 'postrebuild' ]
+5 info lifecycle ursa-optional@0.9.10~prerebuild: ursa-optional@0.9.10
+6 info lifecycle ursa-optional@0.9.10~rebuild: ursa-optional@0.9.10
+7 verbose lifecycle ursa-optional@0.9.10~rebuild: unsafe-perm in lifecycle true
+8 verbose lifecycle ursa-optional@0.9.10~rebuild: PATH: /home/ec2-user/.nvm/versions/node/v12.13.0/lib/node_modules/npm/node_modules/npm-lifecycle/node-gyp-bin:/home/ec2-user/triviabillionia-socket/node_modules/ursa-optional/node_modules/.bin:/home/ec2-user/triviabillionia-socket/node_modules/.bin:/home/ec2-user/.nvm/versions/node/v12.13.0/lib/node_modules/npm/node_modules/npm-lifecycle/node-gyp-bin:/home/ec2-user/triviabillionia-socket/node_modules/ursa-optional/node_modules/.bin:/home/ec2-user/triviabillionia-socket/node_modules/.bin:/home/ec2-user/.nvm/versions/node/v12.13.0/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/ec2-user/.local/bin:/home/ec2-user/bin
+9 verbose lifecycle ursa-optional@0.9.10~rebuild: CWD: /home/ec2-user/triviabillionia-socket/node_modules/ursa-optional
+10 silly lifecycle ursa-optional@0.9.10~rebuild: Args: [ '-c', 'node-gyp rebuild' ]
+11 silly lifecycle ursa-optional@0.9.10~rebuild: Returned: code: 1  signal: null
+12 info lifecycle ursa-optional@0.9.10~rebuild: Failed to exec rebuild script
+13 verbose stack Error: ursa-optional@0.9.10 rebuild: `node-gyp rebuild`
+13 verbose stack Exit status 1
+13 verbose stack     at EventEmitter.<anonymous> (/home/ec2-user/.nvm/versions/node/v12.13.0/lib/node_modules/npm/node_modules/npm-lifecycle/index.js:332:16)
+13 verbose stack     at EventEmitter.emit (events.js:210:5)
+13 verbose stack     at ChildProcess.<anonymous> (/home/ec2-user/.nvm/versions/node/v12.13.0/lib/node_modules/npm/node_modules/npm-lifecycle/lib/spawn.js:55:14)
+13 verbose stack     at ChildProcess.emit (events.js:210:5)
+13 verbose stack     at maybeClose (internal/child_process.js:1021:16)
+13 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:283:5)
+14 verbose pkgid ursa-optional@0.9.10
+15 verbose cwd /home/ec2-user/triviabillionia-socket/node_modules/ursa-optional
+16 verbose Linux 4.14.238-182.421.amzn2.x86_64
+17 verbose argv "/home/ec2-user/.nvm/versions/node/v12.13.0/bin/node" "/home/ec2-user/.nvm/versions/node/v12.13.0/lib/node_modules/npm/bin/npm-cli.js" "run" "rebuild"
+18 verbose node v12.13.0
+19 verbose npm  v6.12.0
+20 error code ELIFECYCLE
+21 error errno 1
+22 error ursa-optional@0.9.10 rebuild: `node-gyp rebuild`
+22 error Exit status 1
+23 error Failed at the ursa-optional@0.9.10 rebuild script.
+23 error This is probably not a problem with npm. There is likely additional logging output above.
+24 verbose exit [ 1, true ]

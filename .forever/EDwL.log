@@ -1,0 +1,71 @@
+Version: 1.1
+Thu, 24 Nov 2022 19:43:44 GMT: Server listening at port 4000
+(node:6595) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:6595) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Thu, 24 Nov 2022 19:43:44 GMT: moderator reconnected.
+Thu, 24 Nov 2022 19:43:44 GMT: settings received from moderator.
+Thu, 24 Nov 2022 19:43:48 GMT: moderator has disconnected. Waiting 600 seconds to verify it's not an accident.
+made connection!!!
+Thu, 24 Nov 2022 19:43:51 GMT: settings received from moderator.
+Thu, 24 Nov 2022 19:43:52 GMT: game has started.
+Thu, 24 Nov 2022 19:46:26 GMT: question received from moderator: 1. Omo Baba Olowo is a nickname associated with which of these Nigerian Artistes?
+Thu, 24 Nov 2022 19:46:46 GMT: announce correct answer for question 1. Omo Baba Olowo is a nickname associated with which of these Nigerian Artistes?
+/home/ec2-user/triviabillionia-socket/index.js:266
+				analytics.answered_correctly[question.game_order].push(123);
+				                             ^
+
+ReferenceError: question is not defined
+    at doCallback (/home/ec2-user/triviabillionia-socket/index.js:266:34)
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:250:5)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #1
+Version: 1.1
+Thu, 24 Nov 2022 19:46:46 GMT: Server listening at port 4000
+(node:6611) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:6611) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Thu, 24 Nov 2022 19:46:47 GMT: moderator reconnected.
+Thu, 24 Nov 2022 19:46:47 GMT: settings received from moderator.
+Thu, 24 Nov 2022 19:46:50 GMT: question received from moderator: 3. Mycology is the scientific study of what?
+/home/ec2-user/triviabillionia-socket/index.js:222
+				analytics.times.questions[question.game_order] = {
+				                ^
+
+TypeError: Cannot read property 'questions' of undefined
+    at doCallback (/home/ec2-user/triviabillionia-socket/index.js:222:21)
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:217:5)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #2
+Version: 1.1
+Thu, 24 Nov 2022 19:46:50 GMT: Server listening at port 4000
+(node:6622) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:6622) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Thu, 24 Nov 2022 19:46:51 GMT: moderator reconnected.
+Thu, 24 Nov 2022 19:46:51 GMT: settings received from moderator.
+/home/ec2-user/triviabillionia-socket/index.js:250
+				doCallback(game_question.correct, m_correct());
+				                         ^
+
+TypeError: Cannot read property 'correct' of undefined
+    at Socket.<anonymous> (/home/ec2-user/triviabillionia-socket/index.js:250:30)
+    at Socket.emit (events.js:210:5)
+    at /home/ec2-user/triviabillionia-socket/node_modules/socket.io/lib/socket.js:513:12
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #3
+Version: 1.1
+Thu, 24 Nov 2022 19:47:11 GMT: Server listening at port 4000
+(node:6633) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:6633) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+made connection!!!
+Thu, 24 Nov 2022 19:47:11 GMT: moderator reconnected.
+Thu, 24 Nov 2022 19:47:12 GMT: settings received from moderator.
+error: Forever detected script was killed by signal: SIGKILL

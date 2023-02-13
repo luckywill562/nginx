@@ -1,0 +1,31 @@
+Version: 1.1
+Wed, 23 Nov 2022 14:26:13 GMT: Server listening at port 4000
+(node:29136) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:29136) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+Wed, 23 Nov 2022 14:38:27 GMT: settings received from moderator.
+Wed, 23 Nov 2022 14:41:14 GMT: game has started.
+Wed, 23 Nov 2022 14:44:29 GMT: question received from moderator: 3. Nigeria’s oldest airport is located in?
+Wed, 23 Nov 2022 14:44:50 GMT: announce correct answer for question 3. Nigeria’s oldest airport is located in?
+Wed, 23 Nov 2022 14:53:26 GMT: moderator has disconnected. Waiting 60 seconds to verify it's not an accident.
+Wed, 23 Nov 2022 14:54:26 GMT: moderator has fully disconnected (60 seconds has passed since disconnect event). Disconnecing all users.
+Wed, 23 Nov 2022 14:54:48 GMT: settings received from moderator.
+Wed, 23 Nov 2022 14:54:50 GMT: game has started.
+Wed, 23 Nov 2022 14:57:18 GMT: moderator has disconnected. Waiting 60 seconds to verify it's not an accident.
+Wed, 23 Nov 2022 14:58:18 GMT: moderator has fully disconnected (60 seconds has passed since disconnect event). Disconnecing all users.
+Wed, 23 Nov 2022 14:59:15 GMT: settings received from moderator.
+Wed, 23 Nov 2022 15:00:06 GMT: game has started.
+Wed, 23 Nov 2022 15:03:04 GMT: question received from moderator: 1. The term “Jet lag” usually refers to?
+Wed, 23 Nov 2022 15:03:26 GMT: announce correct answer for question 1. The term “Jet lag” usually refers to?
+Wed, 23 Nov 2022 15:03:36 GMT: question received from moderator: 3. Which of these female singers did Jay Z feature on his Hip Hop song Empire State of Mind?
+Wed, 23 Nov 2022 15:03:57 GMT: announce correct answer for question 3. Which of these female singers did Jay Z feature on his Hip Hop song Empire State of Mind?
+Wed, 23 Nov 2022 15:04:03 GMT: question received from moderator: 2. A place where registered voters go to cast their votes during an election in Nigeria is called?
+Wed, 23 Nov 2022 15:04:25 GMT: announce correct answer for question 2. A place where registered voters go to cast their votes during an election in Nigeria is called?
+Wed, 23 Nov 2022 15:07:01 GMT: moderator has disconnected. Waiting 60 seconds to verify it's not an accident.
+Wed, 23 Nov 2022 15:08:01 GMT: moderator has fully disconnected (60 seconds has passed since disconnect event). Disconnecing all users.
+Wed, 23 Nov 2022 23:08:12 GMT: db connection loss. Instant reconnect.
+Thu, 24 Nov 2022 07:09:00 GMT: db connection loss. Instant reconnect.
+Thu, 24 Nov 2022 14:01:58 GMT: settings received from moderator.
+Thu, 24 Nov 2022 14:02:35 GMT: game has started.
+Thu, 24 Nov 2022 14:05:15 GMT: question received from moderator: 1. The term “Jet lag” usually refers to?
+Thu, 24 Nov 2022 14:05:36 GMT: announce correct answer for question 1. The term “Jet lag” usually refers to?
+error: Forever detected script was killed by signal: SIGKILL

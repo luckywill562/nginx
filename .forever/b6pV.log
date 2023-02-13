@@ -1,0 +1,118 @@
+Version: 1.1
+Thu, 24 Nov 2022 17:53:33 GMT: Server listening at port 4000
+(node:3950) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:3950) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+Thu, 24 Nov 2022 17:55:06 GMT: moderator has disconnected. Waiting 60 seconds to verify it's not an accident.
+Thu, 24 Nov 2022 17:56:06 GMT: moderator has fully disconnected (60 seconds has passed since disconnect event). Disconnecing all users.
+/home/ec2-user/triviabillionia-socket/index.js:334
+				}, game_settings['video-delay']);
+				                ^
+
+TypeError: Cannot read property 'video-delay' of undefined
+    at Timeout._onTimeout (/home/ec2-user/triviabillionia-socket/index.js:334:21)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #1
+Version: 1.1
+Thu, 24 Nov 2022 17:56:07 GMT: Server listening at port 4000
+(node:3968) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:3968) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+Thu, 24 Nov 2022 17:57:58 GMT: moderator has disconnected. Waiting 60 seconds to verify it's not an accident.
+Thu, 24 Nov 2022 17:58:58 GMT: moderator has fully disconnected (60 seconds has passed since disconnect event). Disconnecing all users.
+/home/ec2-user/triviabillionia-socket/index.js:334
+				}, game_settings['video-delay']);
+				                ^
+
+TypeError: Cannot read property 'video-delay' of undefined
+    at Timeout._onTimeout (/home/ec2-user/triviabillionia-socket/index.js:334:21)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #2
+Version: 1.1
+Thu, 24 Nov 2022 17:58:58 GMT: Server listening at port 4000
+(node:3983) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:3983) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+Thu, 24 Nov 2022 18:01:07 GMT: moderator has disconnected. Waiting 60 seconds to verify it's not an accident.
+Thu, 24 Nov 2022 18:02:08 GMT: moderator has fully disconnected (60 seconds has passed since disconnect event). Disconnecing all users.
+/home/ec2-user/triviabillionia-socket/index.js:334
+				}, game_settings['video-delay']);
+				                ^
+
+TypeError: Cannot read property 'video-delay' of undefined
+    at Timeout._onTimeout (/home/ec2-user/triviabillionia-socket/index.js:334:21)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #3
+Version: 1.1
+Thu, 24 Nov 2022 18:02:08 GMT: Server listening at port 4000
+(node:4018) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:4018) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+Thu, 24 Nov 2022 18:03:59 GMT: moderator has disconnected. Waiting 60 seconds to verify it's not an accident.
+Thu, 24 Nov 2022 18:04:59 GMT: moderator has fully disconnected (60 seconds has passed since disconnect event). Disconnecing all users.
+/home/ec2-user/triviabillionia-socket/index.js:334
+				}, game_settings['video-delay']);
+				                ^
+
+TypeError: Cannot read property 'video-delay' of undefined
+    at Timeout._onTimeout (/home/ec2-user/triviabillionia-socket/index.js:334:21)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #4
+Version: 1.1
+Thu, 24 Nov 2022 18:04:59 GMT: Server listening at port 4000
+(node:4070) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:4070) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+Thu, 24 Nov 2022 18:06:36 GMT: moderator has disconnected. Waiting 60 seconds to verify it's not an accident.
+Thu, 24 Nov 2022 18:07:36 GMT: moderator has fully disconnected (60 seconds has passed since disconnect event). Disconnecing all users.
+/home/ec2-user/triviabillionia-socket/index.js:334
+				}, game_settings['video-delay']);
+				                ^
+
+TypeError: Cannot read property 'video-delay' of undefined
+    at Timeout._onTimeout (/home/ec2-user/triviabillionia-socket/index.js:334:21)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #5
+Version: 1.1
+Thu, 24 Nov 2022 18:07:36 GMT: Server listening at port 4000
+(node:4085) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:4085) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+Thu, 24 Nov 2022 18:09:06 GMT: moderator has disconnected. Waiting 60 seconds to verify it's not an accident.
+Thu, 24 Nov 2022 18:10:06 GMT: moderator has fully disconnected (60 seconds has passed since disconnect event). Disconnecing all users.
+/home/ec2-user/triviabillionia-socket/index.js:334
+				}, game_settings['video-delay']);
+				                ^
+
+TypeError: Cannot read property 'video-delay' of undefined
+    at Timeout._onTimeout (/home/ec2-user/triviabillionia-socket/index.js:334:21)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #6
+Version: 1.1
+Thu, 24 Nov 2022 18:10:06 GMT: Server listening at port 4000
+(node:4107) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(node:4107) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+Thu, 24 Nov 2022 18:11:57 GMT: moderator has disconnected. Waiting 60 seconds to verify it's not an accident.
+Thu, 24 Nov 2022 18:12:29 GMT: settings received from moderator.
+Thu, 24 Nov 2022 18:12:57 GMT: moderator has fully disconnected (60 seconds has passed since disconnect event). Disconnecing all users.
+Thu, 24 Nov 2022 18:13:23 GMT: moderator has disconnected. Waiting 60 seconds to verify it's not an accident.
+Thu, 24 Nov 2022 18:14:23 GMT: moderator has fully disconnected (60 seconds has passed since disconnect event). Disconnecing all users.
+Thu, 24 Nov 2022 18:15:06 GMT: moderator has disconnected. Waiting 60 seconds to verify it's not an accident.
+Thu, 24 Nov 2022 18:16:06 GMT: moderator has fully disconnected (60 seconds has passed since disconnect event). Disconnecing all users.
+Thu, 24 Nov 2022 18:16:47 GMT: moderator has disconnected. Waiting 60 seconds to verify it's not an accident.
+Thu, 24 Nov 2022 18:17:47 GMT: moderator has fully disconnected (60 seconds has passed since disconnect event). Disconnecing all users.
+Thu, 24 Nov 2022 18:18:12 GMT: moderator has disconnected. Waiting 60 seconds to verify it's not an accident.
+Thu, 24 Nov 2022 18:19:12 GMT: moderator has fully disconnected (60 seconds has passed since disconnect event). Disconnecing all users.
+Thu, 24 Nov 2022 18:19:38 GMT: moderator has disconnected. Waiting 60 seconds to verify it's not an accident.
+Thu, 24 Nov 2022 18:20:38 GMT: moderator has fully disconnected (60 seconds has passed since disconnect event). Disconnecing all users.
+Thu, 24 Nov 2022 18:21:12 GMT: moderator has disconnected. Waiting 60 seconds to verify it's not an accident.
+Thu, 24 Nov 2022 18:21:53 GMT: settings received from moderator.
+Thu, 24 Nov 2022 18:22:12 GMT: moderator has fully disconnected (60 seconds has passed since disconnect event). Disconnecing all users.
+Thu, 24 Nov 2022 18:22:38 GMT: moderator has disconnected. Waiting 60 seconds to verify it's not an accident.
+error: Forever detected script was killed by signal: SIGKILL
